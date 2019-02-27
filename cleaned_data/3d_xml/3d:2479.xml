@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="filename">Crabb_33.TIF</identifier>
+   <identifier type="pid">3d:2479</identifier>
+   <titleInfo>
+      <title>Tea-pitcher shard vessel</title>
+   </titleInfo>
+   <abstract>Shattered earthenware reassembled</abstract>
+   <abstract>Part of Institute of Museum and Library Services grant LG-03-4-0084-04:  From Pi Beta Phi to Arrowmont:  Bringing Education and Economic Development to the Great Smoky Mountains, 1910-2004.  Principal Investigators:  Anne Bridges and Ken Wise</abstract>
+   <name type="personal">
+      <namePart>Crabb, Patrick Shia</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm>
+      </role>
+   </name>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300386879">ceramic ware (visual works)</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300194765">pitchers (vessels)</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300140803">earthenware</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300117132">sherds</form>
+      <extent>13 1/4" x 15 1/2" x 3 1/2"</extent>
+   </physicalDescription>
+   <originInfo>
+      <dateCreated>1988</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1988</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</placeTerm>
+      </place>
+   </originInfo>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh88006981">
+      <topic>Ceramic teapots</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85105760">
+      <topic>Pottery, American</topic>
+   </subject>
+   <typeOfResource>three dimensional object</typeOfResource>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">No linguistic content</languageTerm>
+   </language>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Art of Arrowmont</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>
+Created and edited in general conformance to MODS Guidelines (Version 3.5).
+</recordOrigin>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>
