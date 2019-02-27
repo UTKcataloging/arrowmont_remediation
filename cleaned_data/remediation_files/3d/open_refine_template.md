@@ -16,6 +16,7 @@
 <identifier type="pid">{{cells["PID"].value}}</identifier>
 <titleInfo><title>{{cells['title'].value}}</title></titleInfo>
 <abstract>{{cells['abstract'].value}}</abstract>
+<abstract>{{cells['abstract_grant'].value}}</abstract>
 {{if(isBlank(cells['creator'].value), '', '<name type="personal"' + if(isBlank(cells['creator_URI'].value), '', ' authority="naf" valueURI="' + cells['creator_URI'].value + '"') + '><namePart>' + cells['creator'].value + '</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/art">Artist</roleTerm></role></name>')}}
 <physicalDescription>
 {{if(isBlank(cells['form_broad'].value), '', '<form authority="aat" valueURI="' + cells['form_broad_URI'].value + '">' + cells['form_broad'].value + '</form>')}}
