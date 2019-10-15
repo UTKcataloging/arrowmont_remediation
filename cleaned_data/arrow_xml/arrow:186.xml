@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="pid">arrow:186</identifier>
+   <identifier type="filename">arr6610059_0000</identifier>
+   <titleInfo>
+      <title>Settlement School Reports</title>
+   </titleInfo>
+   <abstract>Pages 58-73 of The Arrow of Pi Beta Phi, volume 66, number 1. Part of Institute of Museum and Library Services grant LG-03-4-0084-04:  From Pi Beta Phi to Arrowmont:  Bringing Education and Economic Development to the Great Smoky Mountains, 1910-2004.  Principal Investigators:  Anne Bridges and Ken Wise.</abstract>
+   <tableOfContents>Report of Chairman of the Settlement School Committee 1949; Report of the Director of the Settlement School 1949; Pi Beta Phi Settlement School, Gatlinburg, Tennessee, Report on Audit, Year Ended June 30, 1949</tableOfContents>
+   <name>
+      <namePart>Smith, Ruth Barrett</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Dyer, Ruth</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateIssued>September 1949</dateIssued>
+      <dateIssued encoding="edtf" keyDate="yes">1949-09</dateIssued>
+      <publisher>Pi Beta Phi</publisher>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
+      <extent>Pages 58-73</extent>
+   </physicalDescription>
+   <subject>
+      <temporal>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</temporal>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85017602">
+      <topic>Budget</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh99005758">
+      <topic>Education</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh93004802">
+      <topic>Craft shops</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh00005607">
+      <topic>Medical care</topic>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Arrowcraft Shop</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80040520">
+      <geographic>Gatlinburg (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85057008">
+      <geographic>Great Smoky Mountains (N.C. and Tenn.)</geographic>
+   </subject>
+   <genre authority="lcgft"
+          valueURI="http://id.loc.gov/authorities/genreForms/gf2014026163">Records (Documents)</genre>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>From Pi Beta Phi to Arrowmont</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Project Part" type="host">
+      <titleInfo>
+         <title>The Arrow of Pi Beta Phi</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Bibliographic Citation" type="host">
+      <titleInfo>
+         <title>The Arrow, Volume 66, Number 1</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation>Pi Beta Phi Fraternity</physicalLocation>
+      <physicalLocation displayLabel="Address">1154 Town and Country Commons Drive, Town and Country, Missouri 63017</physicalLocation>
+      <shelfLocator>Box 40, Folder 2</shelfLocator>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not Evaluated</accessCondition>
+</mods>
