@@ -7,13 +7,24 @@ Metadata for arrowmont collections requiring significant remediation following m
 |-- cleaned_data
     |-- xml_arrpgimg
     |-- remediation_files
+          |--3d
+          |--arrow
           |--arrpgimg
             |-- arrpgimg.openrefine.tar.gz
             |-- arrpgimg.xpr
             |-- modscollection.xml
             |-- open_refine_template.md
             |-- splitter.xsl
-          |--3d
+          |--arrsimple
+          |--sturley
+            |-- sturley.openrefine.tar.gz
+            |-- sturley.xpr
+            |-- modscollection.xml
+            |-- open_refine_template.md
+            |-- splitter.xsl
 |-- original_data
-    |-- arrpgimg.csv
     |-- 3d.csv
+    |-- arrow.csv
+    |-- arrpgimg.csv
+    |-- arrsimple.csv
+    |-- sturley.csv
