@@ -5,7 +5,10 @@ Metadata for arrowmont collections requiring significant remediation following m
 
 ```
 |-- cleaned_data
-    |-- xml_arrpgimg
+    |-- 3d_xml
+    |-- arrow_xml
+    |-- arrpgimg_xml
+    |-- arrsimple_xml
     |-- remediation_files
           |--3d
           |--arrow
@@ -22,6 +25,7 @@ Metadata for arrowmont collections requiring significant remediation following m
             |-- modscollection.xml
             |-- open_refine_template.md
             |-- splitter.xsl
+    |-- sturley_xml
 |-- original_data
     |-- 3d.csv
     |-- arrow.csv
