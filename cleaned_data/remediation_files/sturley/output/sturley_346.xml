@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="pid">sturley_346</identifier>
+   <titleInfo>
+      <title>Ruth Sturley to family, Sept. 17, 1919</title>
+   </titleInfo>
+   <abstract>Sunbonnet drill for the fair. Plans for a week end trip over the Smokies into No. Carolina. Troubles of our handy  man and his wife</abstract>
+   <name>
+      <namePart>Sturley, Ruth</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>Sep 17, 1919</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form>
+      <extent>9 pages</extent>
+   </physicalDescription>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80040520">
+      <geographic>Gatlinburg (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85100163">
+      <topic>Persons</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85055012">
+      <topic>Girls</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85129244">
+      <topic>Student activities</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2001008851">
+      <topic>Social life and customs</topic>
+   </subject>
+   <typeOfResource>text</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Ruth Sturley's Letters and Diary</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation>
+      <shelfLocator>Box 3, Folder 2</shelfLocator>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+</mods>
