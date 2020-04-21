@@ -9,8 +9,9 @@
       <title>Ruth Sturley to family, Feb. 1, 1920 </title>
    </titleInfo>
    <abstract>Aunt Lydia Whaley and her willows for baskets - Men from Delco Light System visit us to make estimate</abstract>
-   <name>
-      <namePart>Sturley, Ruth</namePart>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/no2020051468">
+      <namePart>Sturley, Ruth E., 1886-1966</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm>
@@ -18,7 +19,11 @@
    </name>
    <originInfo>
       <dateCreated>Feb 1, 1920</dateCreated>
+      <dateCreated encoding="edtf">1920-02-01</dateCreated>
    </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form>
       <extent>6 pages</extent>
@@ -50,6 +55,8 @@
       <shelfLocator>Box 3, Folder 4</shelfLocator>
    </location>
    <recordInfo>
-      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
    </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition>
 </mods>

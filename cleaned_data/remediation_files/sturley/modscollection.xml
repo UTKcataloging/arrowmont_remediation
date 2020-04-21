@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?> <modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods>
+<?xml version="1.0" encoding="UTF-8"?> <modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+
+<mods>
 
 <identifier type="pid">sturley_77</identifier>
 
@@ -6,9 +8,11 @@
 
 <abstract>Gatlinburg to raise $700 as her share in church campaign - No observance of Thanksgiving or Christmas made by the mountain people -</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Nov 23, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Nov 23, 1919</dateCreated><dateCreated encoding="edtf">1919-11-23</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>4 pages</extent></physicalDescription>
 
@@ -32,9 +36,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -46,9 +50,11 @@
 
 <abstract>Shooting in the Sugarlands - Squire Maples makes an examination</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Nov 10, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Nov 10, 1919</dateCreated><dateCreated encoding="edtf">1919-11-10</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>7 pages</extent></physicalDescription>
 
@@ -72,9 +78,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -86,9 +92,11 @@
 
 <abstract>Call on a large mountain family - Usual routine</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Nov 16, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Nov 16, 1919</dateCreated><dateCreated encoding="edtf">1919-11-16</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>4 pages</extent></physicalDescription>
 
@@ -112,9 +120,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -126,9 +134,11 @@
 
 <abstract>Letter to Pi Phi Alumnae Club in Tacoma. Chestnuts. How the mountain people live and why we vist over night with only a few.</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Oct 20, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Oct 20, 1919</dateCreated><dateCreated encoding="edtf">1919-10-20</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>8 pages</extent></physicalDescription>
 
@@ -152,9 +162,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -166,9 +176,11 @@
 
 <abstract>Ruth Sturley's personal diary begun in August 1919 when she began teaching at Pi Beta Phi Settlement School in Gatlinburg, Tennessee.</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Aug 3, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Aug 3, 1919</dateCreated><dateCreated encoding="edtf">1919-08-03</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">books</form><extent>75 pages</extent></physicalDescription>
 
@@ -192,9 +204,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 71, Folder 0</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -206,9 +218,11 @@
 
 <abstract>Snowstorm - Valentine's Day - School Magazine</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Feb 15, 1920</dateCreated></originInfo>
+<originInfo> <dateCreated>Feb 15, 1920</dateCreated><dateCreated encoding="edtf">1920-02-15</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>7 pages</extent></physicalDescription>
 
@@ -232,9 +246,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -246,9 +260,11 @@
 
 <abstract>School Work - Visit to the Oakley Family</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Dec 11, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Dec 11, 1919</dateCreated><dateCreated encoding="edtf">1919-12-11</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>5 pages</extent></physicalDescription>
 
@@ -272,9 +288,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -286,9 +302,11 @@
 
 <abstract>Trip to Knoxville. Trip to Wear's Valley. Debating Club</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Oct 28, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Oct 28, 1919</dateCreated><dateCreated encoding="edtf">1919-10-28</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>7 pages</extent></physicalDescription>
 
@@ -312,9 +330,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -326,9 +344,11 @@
 
 <abstract>Visit at a mountain home over night - Description of house, occupants and ways of living</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Nov 5, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Nov 5, 1919</dateCreated><dateCreated encoding="edtf">1919-11-05</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>10 pages</extent></physicalDescription>
 
@@ -352,9 +372,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -366,9 +386,11 @@
 
 <abstract>More visiting at homes of mt. people -</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Mar 10, 1920</dateCreated></originInfo>
+<originInfo> <dateCreated>Mar 10, 1920</dateCreated><dateCreated encoding="edtf">1920-03-10</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>4 pages</extent></physicalDescription>
 
@@ -392,9 +414,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -406,9 +428,11 @@
 
 <abstract>We visit the Sevierville Fair and see our exhibits and others. Visit the McCarter family to see the making of molasses.</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Oct 5, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Oct 5, 1919</dateCreated><dateCreated encoding="edtf">1919-10-05</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>15 pages</extent></physicalDescription>
 
@@ -432,9 +456,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -446,9 +470,11 @@
 
 <abstract>Go to shivaree up Wildcat Holler - Miss Turner's visit - All night at the Maples' home - Visit at Sevierville</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Sep 14, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Sep 14, 1919</dateCreated><dateCreated encoding="edtf">1919-09-14</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>17 pages</extent></physicalDescription>
 
@@ -472,9 +498,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -486,9 +512,11 @@
 
 <abstract>Christmas program at school and ourr leaving the burg for the two weeks' Christmas vacation.</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Dec 20, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Dec 20, 1919</dateCreated><dateCreated encoding="edtf">1919-12-20</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>9 pages</extent></physicalDescription>
 
@@ -512,9 +540,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -526,9 +554,11 @@
 
 <abstract>Call on the Camels. Blanche and Mattie Huff visit us. Dinner at the home of the Carrs</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Mar 21, 1920</dateCreated></originInfo>
+<originInfo> <dateCreated>Mar 21, 1920</dateCreated><dateCreated encoding="edtf">1920-03-21</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>7 pages</extent></physicalDescription>
 
@@ -552,9 +582,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -566,9 +596,11 @@
 
 <abstract>Halloween affair at school for community - Visit to Round Top - Miss Langmaid (Chairman of the Settlement School Committee) arrives for visit</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Nov 2, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Nov 2, 1919</dateCreated><dateCreated encoding="edtf">1919-11-02</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>10 pages</extent></physicalDescription>
 
@@ -592,9 +624,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -606,9 +638,11 @@
 
 <abstract>Weekend trip via Little Pigeon River into Nort Carolina preparing for the school and community fair.</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Sep 19, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Sep 19, 1919</dateCreated><dateCreated encoding="edtf">1919-09-19</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>15 pages</extent></physicalDescription>
 
@@ -632,9 +666,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -646,9 +680,11 @@
 
 <abstract>Go after a still with deputy sheriff and other teachers -</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Aug 29, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Aug 29, 1919</dateCreated><dateCreated encoding="edtf">1919-08-29</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>15 pages</extent></physicalDescription>
 
@@ -672,9 +708,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -686,9 +722,11 @@
 
 <abstract>In Knoxville. Trip to Wear's Valley for baskets. Home again at the burg.</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Oct 29, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Oct 29, 1919</dateCreated><dateCreated encoding="edtf">1919-10-29</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>4 pages</extent></physicalDescription>
 
@@ -712,9 +750,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -726,9 +764,11 @@
 
 <abstract>Preparations for Thanksgiving at the house and the school - Program successful - Ten at Thanksgiving dinner - Miss Langmaid still with us</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Nov 26, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Nov 26, 1919</dateCreated><dateCreated encoding="edtf">1919-11-26</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>7 pages</extent></physicalDescription>
 
@@ -752,9 +792,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -766,9 +806,11 @@
 
 <abstract>Sending a telegram from Gatlinburg</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Feb 22, 1920</dateCreated></originInfo>
+<originInfo> <dateCreated>Feb 22, 1920</dateCreated><dateCreated encoding="edtf">1920-02-22</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>7 pages</extent></physicalDescription>
 
@@ -792,9 +834,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -806,9 +848,11 @@
 
 <abstract>Letter to Tacoma alumnae (Inez Smith Soule Alumnae Club - Mr. Cresswell and Mrs. Proffitt move from Maple Cottage to the Stewart Cottage Boys' dormitory</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Oct 30, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Oct 30, 1919</dateCreated><dateCreated encoding="edtf">1919-10-30</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>10 pages</extent></physicalDescription>
 
@@ -832,9 +876,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -846,9 +890,11 @@
 
 <abstract>Organization of school, Girls' dormitory, Revival meetings</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Aug 8, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Aug 8, 1919</dateCreated><dateCreated encoding="edtf">1919-08-08</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>17 pages</extent></physicalDescription>
 
@@ -872,9 +918,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -886,9 +932,11 @@
 
 <abstract>The general store belonging to Charlie Ogle, County Institute in Sevierville, Visit at the Clabos, Miss Turner arrives for 10 day visit - she who suggested the school to honor our Founders.</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Sep 4, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Sep 4, 1919</dateCreated><dateCreated encoding="edtf">1919-09-04</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>21 pages</extent></physicalDescription>
 
@@ -912,9 +960,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -926,9 +974,11 @@
 
 <abstract>Aunt Lydia Whaley. Her cabin.</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Oct 20, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Oct 20, 1919</dateCreated><dateCreated encoding="edtf">1919-10-20</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>5 pages</extent></physicalDescription>
 
@@ -952,9 +1002,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -966,9 +1016,11 @@
 
 <abstract>Arrival at Knoxville- train to Sevierville and eventually to Gatlinburg. First             experience calling on a mountain family</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Aug 3, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Aug 3, 1919</dateCreated><dateCreated encoding="edtf">1919-08-03</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>25 pages</extent></physicalDescription>
 
@@ -992,9 +1044,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -1006,9 +1058,11 @@
 
 <abstract>More about the school - Boys' dormitory - Plans for first fair at the school - Trip after a still.</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Sep 6, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Sep 6, 1919</dateCreated><dateCreated encoding="edtf">1919-09-06</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>10 pages</extent></physicalDescription>
 
@@ -1032,9 +1086,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -1046,9 +1100,11 @@
 
 <abstract>Aunt Lizzie and Mrs. Proffitt make the living room comfortable (according to their ideas) - More visiting around before my leaving Tues. April 6th</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Mar 31, 1920</dateCreated></originInfo>
+<originInfo> <dateCreated>Mar 31, 1920</dateCreated><dateCreated encoding="edtf">1920-03-31</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>7 pages</extent></physicalDescription>
 
@@ -1072,9 +1128,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -1086,9 +1142,11 @@
 
 <abstract>Description of my room in the Teachers' Cottage with diagram - Trouble over Mary and Marshall Ogle - Miss Turner at the hotel - How Sunday is spent -</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Sep 7, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Sep 7, 1919</dateCreated><dateCreated encoding="edtf">1919-09-07</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>15 pages</extent></physicalDescription>
 
@@ -1112,9 +1170,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -1126,9 +1184,11 @@
 
 <abstract>Account of the school papers. References to work of the four high school students</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Feb 29, 1920</dateCreated></originInfo>
+<originInfo> <dateCreated>Feb 29, 1920</dateCreated><dateCreated encoding="edtf">1920-02-29</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>7 pages</extent></physicalDescription>
 
@@ -1152,9 +1212,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -1166,9 +1226,11 @@
 
 <abstract>In Knoxville with Mr. and Mrs. Bishop to attend Conference. Left Gatlinburg for Sevierville April 6th and stay with Bishops that night. Program of Conference attached - also clippings - Attended this Conference in Knoxville - April 1920</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Apr 7, 1920</dateCreated></originInfo>
+<originInfo> <dateCreated>Apr 7, 1920</dateCreated><dateCreated encoding="edtf">1920-04-07</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>10 pages</extent></physicalDescription>
 
@@ -1192,9 +1254,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -1206,9 +1268,11 @@
 
 <abstract>Preparations for Christmas and Christmas Program at School</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Dec 18, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Dec 18, 1919</dateCreated><dateCreated encoding="edtf">1919-12-18</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>10 pages</extent></physicalDescription>
 
@@ -1232,9 +1296,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -1246,9 +1310,11 @@
 
 <abstract>Community Halloween Party in the school - Visit over night at the Reagan's - Trip to Round Top</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Nov 4, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Nov 4, 1919</dateCreated><dateCreated encoding="edtf">1919-11-04</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>7 pages</extent></physicalDescription>
 
@@ -1272,9 +1338,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -1286,9 +1352,11 @@
 
 <abstract>Aunt Lydia Whaley and her willows for baskets - Men from Delco Light System visit us to make estimate</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Feb 1, 1920</dateCreated></originInfo>
+<originInfo> <dateCreated>Feb 1, 1920</dateCreated><dateCreated encoding="edtf">1920-02-01</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>6 pages</extent></physicalDescription>
 
@@ -1312,9 +1380,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -1326,9 +1394,11 @@
 
 <abstract>Call on Aunt Lydia and the Tom Camels - All day hike with the Camelsand their hounds -</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Aug 18, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Aug 18, 1919</dateCreated><dateCreated encoding="edtf">1919-08-18</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>22 pages</extent></physicalDescription>
 
@@ -1352,9 +1422,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -1366,9 +1436,11 @@
 
 <abstract>All night at the Huffs - Plans for Christmas and usual routines</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Nov 30, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Nov 30, 1919</dateCreated><dateCreated encoding="edtf">1919-11-30</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>4 pages</extent></physicalDescription>
 
@@ -1392,9 +1464,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -1406,9 +1478,11 @@
 
 <abstract>A busy life for us all</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Nov 20, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Nov 20, 1919</dateCreated><dateCreated encoding="edtf">1919-11-20</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>7 pages</extent></physicalDescription>
 
@@ -1432,9 +1506,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -1446,9 +1520,11 @@
 
 <abstract>Smallpox scare. School closes sooner than planned with program.</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Mar 25, 1920</dateCreated></originInfo>
+<originInfo> <dateCreated>Mar 25, 1920</dateCreated><dateCreated encoding="edtf">1920-03-25</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>9 pages</extent></physicalDescription>
 
@@ -1472,9 +1548,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -1486,9 +1562,11 @@
 
 <abstract>More calls and spend the night with Josie Trentham and her mother.</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Mar 17, 1920</dateCreated></originInfo>
+<originInfo> <dateCreated>Mar 17, 1920</dateCreated><dateCreated encoding="edtf">1920-03-17</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>4 pages</extent></physicalDescription>
 
@@ -1512,9 +1590,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -1526,9 +1604,11 @@
 
 <abstract>Boys' dormitory comes to an end</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Mar 7, 1920</dateCreated></originInfo>
+<originInfo> <dateCreated>Mar 7, 1920</dateCreated><dateCreated encoding="edtf">1920-03-07</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>4 pages</extent></physicalDescription>
 
@@ -1552,9 +1632,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -1566,9 +1646,11 @@
 
 <abstract>Visits at various mountain homes</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Jan 19, 1920</dateCreated></originInfo>
+<originInfo> <dateCreated>Jan 19, 1920</dateCreated><dateCreated encoding="edtf">1920-01-19</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>7 pages</extent></physicalDescription>
 
@@ -1592,9 +1674,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -1606,9 +1688,11 @@
 
 <abstract>Harrison and family ill with flu - Condition of their home -</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Feb 8, 1920</dateCreated></originInfo>
+<originInfo> <dateCreated>Feb 8, 1920</dateCreated><dateCreated encoding="edtf">1920-02-08</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>4 pages</extent></physicalDescription>
 
@@ -1632,9 +1716,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -1646,9 +1730,11 @@
 
 <abstract>Sunbonnet drill for the fair. Plans for a week end trip over the Smokies into No. Carolina. Troubles of our handy  man and his wife</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Sep 17, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Sep 17, 1919</dateCreated><dateCreated encoding="edtf">1919-09-17</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>9 pages</extent></physicalDescription>
 
@@ -1672,9 +1758,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -1686,9 +1772,11 @@
 
 <abstract>Mrs. Helmick's visit. Man teacher Mr. Cresswell arrives - Picnic for schoolgirls -</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Aug 20, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Aug 20, 1919</dateCreated><dateCreated encoding="edtf">1919-08-20</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>13 pages</extent></physicalDescription>
 
@@ -1712,9 +1800,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -1726,9 +1814,11 @@
 
 <abstract>Fair at Sevierville, At the McCarters' to see molasses made -</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Oct 5, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Oct 5, 1919</dateCreated><dateCreated encoding="edtf">1919-10-05</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>17 pages</extent></physicalDescription>
 
@@ -1752,9 +1842,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -1766,9 +1856,11 @@
 
 <abstract>Plans to visit Elkmont. Estel Huff takes us to Pigeon Ford and back in the Huff Ford. The four high school students plan their share of the Thanksgiving program</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Oct 8, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Oct 8, 1919</dateCreated><dateCreated encoding="edtf">1919-10-08</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>5 pages</extent></physicalDescription>
 
@@ -1792,9 +1884,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -1806,9 +1898,11 @@
 
 <abstract>Time for report cards -</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Mar 3, 1920</dateCreated></originInfo>
+<originInfo> <dateCreated>Mar 3, 1920</dateCreated><dateCreated encoding="edtf">1920-03-03</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>4 pages</extent></physicalDescription>
 
@@ -1832,9 +1926,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -1846,9 +1940,11 @@
 
 <abstract>The "Box Supper"</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Dec 7, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Dec 7, 1919</dateCreated><dateCreated encoding="edtf">1919-12-07</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>7 pages</extent></physicalDescription>
 
@@ -1872,9 +1968,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -1886,9 +1982,11 @@
 
 <abstract>Floods! - Getting ready to leave - Last calls on Maples, Huffs, McCarters</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Apr 5, 1920</dateCreated></originInfo>
+<originInfo> <dateCreated>Apr 5, 1920</dateCreated><dateCreated encoding="edtf">1920-04-05</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>13 pages</extent></physicalDescription>
 
@@ -1912,9 +2010,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -1926,9 +2024,11 @@
 
 <abstract>Red Cross Meeting - Details of interruptions that break into our schedule</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Nov 9, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Nov 9, 1919</dateCreated><dateCreated encoding="edtf">1919-11-09</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>7 pages</extent></physicalDescription>
 
@@ -1952,9 +2052,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -1966,9 +2066,11 @@
 
 <abstract>Keeping warm at school - Mr. Cresswell's chores when Harrison is ill - Getting butter I go after butter which is scarce -</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Feb 25, 1920</dateCreated></originInfo>
+<originInfo> <dateCreated>Feb 25, 1920</dateCreated><dateCreated encoding="edtf">1920-02-25</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>6 pages</extent></physicalDescription>
 
@@ -1992,9 +2094,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -2006,9 +2108,11 @@
 
 <abstract>The Sunday School arrangement of exhibits in school for the fair. The fair diagram of schoolhouse. Visit to two other schools. Trip up Baskins Creek.</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Sep 28, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Sep 28, 1919</dateCreated><dateCreated encoding="edtf">1919-09-28</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>23 pages</extent></physicalDescription>
 
@@ -2032,9 +2136,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -2046,9 +2150,11 @@
 
 <abstract>Autumn coloring everywhere - School subjects - Plans for Thanksgiving program</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Nov 12, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Nov 12, 1919</dateCreated><dateCreated encoding="edtf">1919-11-12</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>10 pages</extent></physicalDescription>
 
@@ -2072,9 +2178,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -2086,9 +2192,11 @@
 
 <abstract>Lunch time at the school.</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Oct 22, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Oct 22, 1919</dateCreated><dateCreated encoding="edtf">1919-10-22</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>4 pages</extent></physicalDescription>
 
@@ -2112,9 +2220,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -2126,9 +2234,11 @@
 
 <abstract>Letter to Pi Phi Alumnae Club in Tacoma, Aunt Lizzie, Other schools in neighborhood, ShirShivaree First fair at the burg, Fair in Sevierville</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Oct 1, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Oct 1, 1919</dateCreated><dateCreated encoding="edtf">1919-10-01</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>21 pages</extent></physicalDescription>
 
@@ -2152,9 +2262,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -2166,9 +2276,11 @@
 
 <abstract>New Orleans' plans - Debate - Visit at home of the Runyans in Sevierville</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Dec 14, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Dec 14, 1919</dateCreated><dateCreated encoding="edtf">1919-12-14</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>7 pages</extent></physicalDescription>
 
@@ -2192,9 +2304,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -2206,9 +2318,11 @@
 
 <abstract>Christmas Tableaux rehearsal</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Dec 3, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Dec 3, 1919</dateCreated><dateCreated encoding="edtf">1919-12-03</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>4 pages</extent></physicalDescription>
 
@@ -2232,9 +2346,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -2246,9 +2360,11 @@
 
 <abstract>Miss Whittle's visit, Our trip to the Glades, Call on mountain families including Aunt Lizzie's son's, Plan for the girls Evergreen Club, Mrs. Proffit (Profit) cooks for boys' dormitory</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Aug 26, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Aug 26, 1919</dateCreated><dateCreated encoding="edtf">1919-08-26</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>13 pages</extent></physicalDescription>
 
@@ -2272,9 +2388,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -2286,9 +2402,11 @@
 
 <abstract>Description of B.Y.P.U. services and those of the church - Pledges by members - Pig killed - Routine affairs</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Nov 23, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Nov 23, 1919</dateCreated><dateCreated encoding="edtf">1919-11-23</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>4 pages</extent></physicalDescription>
 
@@ -2312,9 +2430,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -2326,9 +2444,11 @@
 
 <abstract>More calls. Primary class has party at the house - Plans for the future of Gatlinburg.</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Feb 5, 1920</dateCreated></originInfo>
+<originInfo> <dateCreated>Feb 5, 1920</dateCreated><dateCreated encoding="edtf">1920-02-05</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>7 pages</extent></physicalDescription>
 
@@ -2352,9 +2472,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -2366,9 +2486,11 @@
 
 <abstract>Armistice Day - Call on the Prickets, former teachers at our school - Debates - Plans for factory set up by the school made by Miss Langmaid</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Nov 18, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Nov 18, 1919</dateCreated><dateCreated encoding="edtf">1919-11-18</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>4 pages</extent></physicalDescription>
 
@@ -2392,9 +2514,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -2406,9 +2528,11 @@
 
 <abstract>School closed unexpectedly Mar. 24 because of smallpox scare - Everyone scatters. I stay till April 6th on because of DAR Congress in Washington which I am to attend as delegate and page</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Mar 28, 1920</dateCreated></originInfo>
+<originInfo> <dateCreated>Mar 28, 1920</dateCreated><dateCreated encoding="edtf">1920-03-28</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>7 pages</extent></physicalDescription>
 
@@ -2432,9 +2556,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -2446,9 +2570,11 @@
 
 <abstract>Letter to the Tacoma alumnae (Inez Smith Soule Alumnae Club). Aunt Lydia Whaley and her home.</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Feb 7, 1920</dateCreated></originInfo>
+<originInfo> <dateCreated>Feb 7, 1920</dateCreated><dateCreated encoding="edtf">1920-02-07</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>7 pages</extent></physicalDescription>
 
@@ -2472,9 +2598,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -2486,9 +2612,11 @@
 
 <abstract>Description of Aunt Lydia Whaley and her home.</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Oct 15, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Oct 15, 1919</dateCreated><dateCreated encoding="edtf">1919-10-15</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>4 pages</extent></physicalDescription>
 
@@ -2512,9 +2640,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -2526,9 +2654,11 @@
 
 <abstract>Poor weather and roads. Debating Club Organized.</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Oct 23, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Oct 23, 1919</dateCreated><dateCreated encoding="edtf">1919-10-23</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>4 pages</extent></physicalDescription>
 
@@ -2552,9 +2682,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -2566,9 +2696,11 @@
 
 <abstract>More visiting at the Huffs and the McCarters - also a debate held</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Mar 14, 1920</dateCreated></originInfo>
+<originInfo> <dateCreated>Mar 14, 1920</dateCreated><dateCreated encoding="edtf">1920-03-14</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>8 pages</extent></physicalDescription>
 
@@ -2592,9 +2724,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -2606,9 +2738,11 @@
 
 <abstract>Milking Jersey cow. Horseback trip. Chestnut ripe</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Oct 12, 1919</dateCreated></originInfo>
+<originInfo> <dateCreated>Oct 12, 1919</dateCreated><dateCreated encoding="edtf">1919-10-12</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>7 pages</extent></physicalDescription>
 
@@ -2632,9 +2766,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 
@@ -2646,9 +2780,11 @@
 
 <abstract>Items on bulletin board at school. School paper planned.</abstract>
 
-<name><namePart>Sturley, Ruth</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
+<name authority="naf" valueURI="http://id.loc.gov/authorities/names/no2020051468"><namePart>Sturley, Ruth E., 1886-1966</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm></role></name>
 
-<originInfo> <dateCreated>Jan 8, 1920</dateCreated></originInfo>
+<originInfo> <dateCreated>Jan 8, 1920</dateCreated><dateCreated encoding="edtf">1920-01-08</dateCreated></originInfo>
+
+<language><languageTerm authority="iso639-2b" type="text">English</languageTerm></language>
 
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form><extent>4 pages</extent></physicalDescription>
 
@@ -2672,9 +2808,9 @@
 
 <location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
-<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
-<accessCondition type="use and reproduction" xlink:href="null">null</accessCondition> 
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition> 
 
 </mods>
 

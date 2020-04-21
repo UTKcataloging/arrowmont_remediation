@@ -14,7 +14,7 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>sturley</String>
+                                        <String>splitter</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -38,7 +38,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>sturley</String>
+                                    <String>splitter</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -59,7 +59,7 @@
                                     <String>${pdu}/splitter.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
-                                    <String>${currentFileURL}</String>
+                                    <String>${pdu}/modscollection.xml</String>
                                 </field>
                                 <field name="defaultScenario">
                                     <Boolean>false</Boolean>

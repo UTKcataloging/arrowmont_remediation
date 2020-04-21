@@ -9,8 +9,9 @@
       <title>Ruth Sturley to family, Sept. 17, 1919</title>
    </titleInfo>
    <abstract>Sunbonnet drill for the fair. Plans for a week end trip over the Smokies into No. Carolina. Troubles of our handy  man and his wife</abstract>
-   <name>
-      <namePart>Sturley, Ruth</namePart>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/no2020051468">
+      <namePart>Sturley, Ruth E., 1886-1966</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/aut">Author</roleTerm>
@@ -18,7 +19,11 @@
    </name>
    <originInfo>
       <dateCreated>Sep 17, 1919</dateCreated>
+      <dateCreated encoding="edtf">1919-09-17</dateCreated>
    </originInfo>
+   <language>
+      <languageTerm authority="iso639-2b" type="text">English</languageTerm>
+   </language>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026877">correspondence</form>
       <extent>9 pages</extent>
@@ -54,6 +59,8 @@
       <shelfLocator>Box 3, Folder 2</shelfLocator>
    </location>
    <recordInfo>
-      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of             Tennessee, Knoxville. Libraries</recordContentSource>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
    </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/ ">Copyright Not             Evaluated</accessCondition>
 </mods>
