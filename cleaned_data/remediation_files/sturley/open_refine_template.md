@@ -1,13 +1,11 @@
-# OpenRefine Template for Sturley Remediation
+**Prefix:**
 
-## Prefix
-```
 <?xml version="1.0" encoding="UTF-8"?> <modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
 
-```
 
-## Row Template
-```
+
+**Body:**
+
 <mods>
 
 <identifier type="pid">{{cells["headeridentifier"].value}}</identifier>
@@ -42,18 +40,16 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>{{cells['relatedItem'].value}}</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="{{cells['physicalLocation_uri.value']}}">{{cells['physicalLocation.1text'].value}}</physicalLocation><shelfLocator>{{cells['physicalLocation.2text'].value}}</shelfLocator></location>
+<location><physicalLocation valueURI="{{cells['physicalLocation_uri'].value}}">{{cells['physicalLocation.1text'].value}}</physicalLocation><shelfLocator>{{cells['physicalLocation.2text'].value}}</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="{{cells['source_URI'].value}}">{{cells['source'].value}}</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="{{cells['Copyright_URI'].value}}">{{cells['Copyright'].value}}</accessCondition> 
 
 </mods>
-```
-## Row Separator
 
-**Leave Blank**
 
-## Suffix
+
+**Suffix:**
 
 </modsCollection>

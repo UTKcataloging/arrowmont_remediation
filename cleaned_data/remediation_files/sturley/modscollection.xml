@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?> <modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods>
+<?xml version="1.0" encoding="UTF-8"?> <modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+
+
+   <mods>
 
 <identifier type="pid">sturley_77</identifier>
 
@@ -32,13 +35,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_98</identifier>
 
@@ -72,13 +75,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_82</identifier>
 
@@ -112,13 +115,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_187</identifier>
 
@@ -152,13 +155,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_1</identifier>
 
@@ -192,13 +195,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 71, Folder 0</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 71, Folder 0</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_614</identifier>
 
@@ -232,13 +235,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_684</identifier>
 
@@ -272,13 +275,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_742</identifier>
 
@@ -312,13 +315,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_114</identifier>
 
@@ -352,13 +355,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_581</identifier>
 
@@ -392,13 +395,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_234</identifier>
 
@@ -432,13 +435,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_356</identifier>
 
@@ -472,13 +475,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_655</identifier>
 
@@ -512,13 +515,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_442</identifier>
 
@@ -552,13 +555,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_133</identifier>
 
@@ -592,13 +595,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_330</identifier>
 
@@ -632,13 +635,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_450</identifier>
 
@@ -672,13 +675,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_155</identifier>
 
@@ -712,13 +715,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_708</identifier>
 
@@ -752,13 +755,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_606</identifier>
 
@@ -792,13 +795,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_144</identifier>
 
@@ -832,13 +835,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_523</identifier>
 
@@ -872,13 +875,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_420</identifier>
 
@@ -912,13 +915,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_181</identifier>
 
@@ -952,13 +955,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_541</identifier>
 
@@ -992,13 +995,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_398</identifier>
 
@@ -1032,13 +1035,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_250</identifier>
 
@@ -1072,13 +1075,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_382</identifier>
 
@@ -1112,13 +1115,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_598</identifier>
 
@@ -1152,13 +1155,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_170</identifier>
 
@@ -1192,13 +1195,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_665</identifier>
 
@@ -1232,13 +1235,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_125</identifier>
 
@@ -1272,13 +1275,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_635</identifier>
 
@@ -1312,13 +1315,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_499</identifier>
 
@@ -1352,13 +1355,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_703</identifier>
 
@@ -1392,13 +1395,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_729</identifier>
 
@@ -1432,13 +1435,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_374</identifier>
 
@@ -1472,13 +1475,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_494</identifier>
 
@@ -1512,13 +1515,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_586</identifier>
 
@@ -1552,13 +1555,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_642</identifier>
 
@@ -1592,13 +1595,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_622</identifier>
 
@@ -1632,13 +1635,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_346</identifier>
 
@@ -1672,13 +1675,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_480</identifier>
 
@@ -1712,13 +1715,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_258</identifier>
 
@@ -1752,13 +1755,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_228</identifier>
 
@@ -1792,13 +1795,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_576</identifier>
 
@@ -1832,13 +1835,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_690</identifier>
 
@@ -1872,13 +1875,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_200</identifier>
 
@@ -1912,13 +1915,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_106</identifier>
 
@@ -1952,13 +1955,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_591</identifier>
 
@@ -1992,13 +1995,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_298</identifier>
 
@@ -2032,13 +2035,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_87</identifier>
 
@@ -2072,13 +2075,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_165</identifier>
 
@@ -2112,13 +2115,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_276</identifier>
 
@@ -2152,13 +2155,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_676</identifier>
 
@@ -2192,13 +2195,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_698</identifier>
 
@@ -2232,13 +2235,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_466</identifier>
 
@@ -2272,13 +2275,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 2</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_716</identifier>
 
@@ -2312,13 +2315,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_721</identifier>
 
@@ -2352,13 +2355,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_737</identifier>
 
@@ -2392,13 +2395,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_322</identifier>
 
@@ -2432,13 +2435,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_627</identifier>
 
@@ -2472,13 +2475,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_195</identifier>
 
@@ -2512,13 +2515,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_160</identifier>
 
@@ -2552,13 +2555,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_567</identifier>
 
@@ -2592,13 +2595,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_214</identifier>
 
@@ -2632,13 +2635,13 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 3</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
 <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition> 
 
-</mods><mods>
+</mods>   <mods>
 
 <identifier type="pid">sturley_650</identifier>
 
@@ -2672,7 +2675,7 @@
 
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Ruth Sturley's Letters and Diary</title></titleInfo></relatedItem>
 
-<location><physicalLocation valueURI="null">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation><shelfLocator>Box 3, Folder 4</shelfLocator></location>
 
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 
