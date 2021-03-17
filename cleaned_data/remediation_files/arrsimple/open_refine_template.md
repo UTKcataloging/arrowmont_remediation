@@ -40,7 +40,7 @@
 
 {{if(isBlank(cells['subject_3_temporal'].value), '', '<subject authority="local"><temporal>' + cells['subject_3_temporal'].value + '</temporal></subject>')}}
 
-{{if(isBlank(cells['subject_3_geographic'].value), '', '<subject authority="naf" valueURI="' + cells['subject_3_geographic_URI'].value + '"><geographic>' + cells['subject_3_geographic'].value + '</geographic></subject>')}}
+{{if(isBlank(cells['subject_3_geographic'].value), '', '<subject + if(isBlank(cells['subject_3_geographic_URI'].value), '', ' authority="naf"  valueURI="' + cells['subject_3_geographic_URI'].value + '") + '><geographic>' + cells['subject_3_geographic'].value + '</geographic></subject>')}}
 
 {{if(isBlank(cells['subject_4_topic'].value), '', '<subject authority="local" ><topic>' + cells['subject_4_topic'].value + '</topic></subject>')}}
 
@@ -48,7 +48,7 @@
 
 {{if(isBlank(cells['subject_4_temporal'].value), '', '<subject authority="local"><temporal>' + cells['subject_4_temporal'].value + '</temporal></subject>')}}
 
-{{if(isBlank(cells['subject_4_geographic'].value), '', '<subject authority="naf" valueURI="' + cells['subject_4_geographic_URI'].value + '"><geographic>' + cells['subject_4_geographic'].value + '</geographic></subject>')}}
+{{if(isBlank(cells['subject_4_geographic'].value), '', '<subject' + if(isBlank(cells['subject_4_geographic_URI'].value), '', ' authority="naf" valueURI="' + cells['subject_4_geographic_URI'].value + '"') + '><geographic>' + cells['subject_4_geographic'].value + '</geographic></subject>')}}
 
 {{if(isBlank(cells['subject_5_topic'].value), '', '<subject authority="local" ><topic>' + cells['subject_5_topic'].value + '</topic></subject>')}}
 
