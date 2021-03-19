@@ -18,7 +18,7 @@
 <identifier type="pid">{{cells["PID"].value}}</identifier>
 <identifier type="local">{{cells["identifier"].value}}</identifier>
 {{if(isBlank(cells['title'].value), '', '<titleInfo><title>' + cells["title"].value + '</title></titleInfo>')}} 
-<abstract>{{cells["abstract"].value}}</abstract>
+{{if(isBlank(cells['abstract'].value), '', '<abstract>' + cells["abstract"].value + '</abstract>')}}
 {{if(isBlank(cells['dateCreated'].value), '', '<originInfo><dateCreated encoding="edtf">' + cells['dateCreated'].value + '</dateCreated></originInfo>')}}
 <physicalDescription><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form></physicalDescription>
 
