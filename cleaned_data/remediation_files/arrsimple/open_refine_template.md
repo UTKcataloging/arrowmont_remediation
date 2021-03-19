@@ -32,7 +32,7 @@
 
 {{if(isBlank(cells['subject_2_temporal'].value), '', '<subject authority="local"><temporal>' + cells['subject_2_temporal'].value + '</temporal></subject>')}}
 
-{{if(isBlank(cells['subject_2_geographic'].value), '', '<subject authority="naf" valueURI="' + cells['subject_2_geographic_URI'].value + '"><geographic>' + cells['subject_2_geographic'].value + '</geographic></subject>')}}
+{{if(isBlank(cells['subject_2_geographic'].value), '', '<subject' + if(isBlank(cells['subject_2_geographic_URI'].value), '', ' authority="naf" valueURI="' + cells['subject_2_geographic_URI'].value + '"') + '><geographic>' + cells['subject_2_geographic'].value + '</geographic></subject>')}}
 
 {{if(isBlank(cells['subject_3_topic'].value), '', '<subject authority="local" ><topic>' + cells['subject_3_topic'].value + '</topic></subject>')}}
 
@@ -56,7 +56,7 @@
 
 {{if(isBlank(cells['subject_5_temporal'].value), '', '<subject authority="local"><temporal>' + cells['subject_5_temporal'].value + '</temporal></subject>')}}
 
-{{if(isBlank(cells['subject_5_geographic'].value), '', '<subject authority="naf" valueURI="' + cells['subject_5_geographic_URI'].value + '"><geographic>' + cells['subject_5_geographic'].value + '</geographic></subject>')}}
+{{if(isBlank(cells['subject_5_geographic'].value), '', '<subject' + if(isBlank(cells['subject_5_geographic_URI'].value), '', ' authority="naf" valueURI="' + cells['subject_5_geographic_URI'].value + '"') + '><geographic>' + cells['subject_5_geographic'].value + '</geographic></subject>')}}
 
 {{if(isBlank(cells['subject_6_topic'].value), '', '<subject authority="local" ><topic>' + cells['subject_6_topic'].value + '</topic></subject>')}}
 
@@ -64,13 +64,13 @@
 
 {{if(isBlank(cells['subject_6_temporal'].value), '', '<subject authority="local"><temporal>' + cells['subject_6_temporal'].value + '</temporal></subject>')}}
 
-{{if(isBlank(cells['subject_6_geographic'].value), '', '<subject authority="naf" valueURI="' + cells['subject_6_geographic_URI'].value + '"><geographic>' + cells['subject_6_geographic'].value + '</geographic></subject>')}}
+{{if(isBlank(cells['subject_6_geographic'].value), '', '<subject' + if(isBlank(cells['subject_6_geographic_URI'].value), '', ' authority="naf" valueURI="' + cells['subject_6_geographic_URI'].value + '"') + '><geographic>' + cells['subject_6_geographic'].value + '</geographic></subject>')}}
 
 {{if(isBlank(cells['subject_7_name'].value), '', '<subject authority="local" ><name><namePart>' + cells['subject_7_name'].value + '</namePart></name></subject>')}}
 
 {{if(isBlank(cells['subject_7_temporal'].value), '', '<subject authority="local"><temporal>' + cells['subject_7_temporal'].value + '</temporal></subject>')}}
 
-{{if(isBlank(cells['subject_7_geographic'].value), '', '<subject authority="naf" valueURI="' + cells['subject_7_geographic_URI'].value + '"><geographic>' + cells['subject_7_geographic'].value + '</geographic></subject>')}}
+{{if(isBlank(cells['subject_7_geographic'].value), '', '<subject' + if(isBlank(cells['subject_7_geographic_URI'].value), '', ' authority="naf" valueURI="' + cells['subject_7_geographic_URI'].value + '"') + '><geographic>' + cells['subject_7_geographic'].value + '</geographic></subject>')}}
 
 {{if(isBlank(cells['subject_8_name'].value), '', '<subject authority="local" ><name><namePart>' + cells['subject_8_name'].value + '</namePart></name></subject>')}}
 
@@ -82,7 +82,6 @@
 
 {{if(isBlank(cells['subject_12_name'].value), '', '<subject authority="local" ><name><namePart>' + cells['subject_12_name'].value + '</namePart></name></subject>')}}
 
-<subject authority="naf" valueURI="{{cells['subject_geographic_URI'].value}}"><geographic>{{cells['subject_geographic'].value}}</geographic><cartographics><coordinates>{{cells['coordinates'].value}}</coordinates></cartographics></subject>
 <language>
 <languageTerm type="text" authority="iso639-2b">English</languageTerm>
 </language>
