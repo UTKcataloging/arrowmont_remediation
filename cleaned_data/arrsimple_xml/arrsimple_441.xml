@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="pid">arrsimple_441</identifier>
+   <identifier type="local">ppi121</identifier>
+   <titleInfo>
+      <title>Gattlinburg looking South East</title>
+   </titleInfo>
+   <abstract>An interesting view of Gatlinburg, notice the misspelling in the title of the postcard, prior to the construction of the Six-Room Schoolhouse. The view of Gatlinburg is similar to that of ppi080; in the foreground, the abandoned Methodist church, briefly used as a schoolhouse by the Pi Phi Settlement School teachers, and Squire Maples' house before the addition of the large porch visible in ppi080.</abstract>
+   <originInfo>
+      <dateCreated encoding="edtf">1914</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85074392">
+      <topic>Landscape</topic>
+   </subject>
+   <subject>
+      <topic>Methodist churches</topic>
+   </subject>
+   <subject>
+      <topic>Homes</topic>
+   </subject>
+   <subject>
+      <topic>Residence</topic>
+   </subject>
+   <subject authority="local">
+      <name>
+         <namePart>Squire Maples Home</namePart>
+      </name>
+   </subject>
+   <subject authority="local">
+      <temporal>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80040520">
+      <geographic>Gatlinburg (Tenn.)</geographic>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Images: From Pi Beta Phi to Arrowmont</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

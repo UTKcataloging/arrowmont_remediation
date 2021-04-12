@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="pid">arrsimple_375</identifier>
+   <identifier type="local">ppi055</identifier>
+   <titleInfo>
+      <title>Teachers' Cottage, Sugarlands Hand made shingles hand turned boards for floors</title>
+   </titleInfo>
+   <abstract>Prior to the construction of the Hazel Todd Meaden Cottage, the Pi Phi teachers lived in this cottage.</abstract>
+   <originInfo>
+      <dateCreated encoding="edtf">1924</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <subject>
+      <topic>Staff quarters</topic>
+   </subject>
+   <subject>
+      <topic>Extension work</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85132964">
+      <topic>Teachers</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85033295">
+      <topic>Cottages</topic>
+   </subject>
+   <subject authority="local">
+      <name>
+         <namePart>Sugarlands (Tenn.)</namePart>
+      </name>
+   </subject>
+   <subject authority="local">
+      <temporal>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</temporal>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Images: From Pi Beta Phi to Arrowmont</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

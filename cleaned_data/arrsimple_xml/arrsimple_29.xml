@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="pid">arrsimple_29</identifier>
+   <identifier type="local">aai0015</identifier>
+   <titleInfo>
+      <title>Students in front of One-Room Schoolhouse, Gatlinburg</title>
+   </titleInfo>
+   <abstract>Group of students, standing on a foot-bridge, at the One-Room Schoolhouse on Baskins Creek, Gatlinburg. Jack and Jim Huff, third and fourth from left; Emma Maples, eighth from right; Stella Huff Cox, third from right.</abstract>
+   <originInfo>
+      <dateCreated encoding="edtf">1915</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85129296">
+      <topic>Students</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85118278">
+      <topic>School buildings</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85118295">
+      <topic>School children</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh99004941">
+      <topic>Children</topic>
+   </subject>
+   <subject authority="local">
+      <name>
+         <namePart>One-Room Schoolhouse, Gatlinburg</namePart>
+      </name>
+   </subject>
+   <subject authority="local">
+      <temporal>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80040520">
+      <geographic>Gatlinburg (Tenn.)</geographic>
+   </subject>
+   <subject authority="local">
+      <name>
+         <namePart>Huff, Jack</namePart>
+      </name>
+   </subject>
+   <subject authority="local">
+      <name>
+         <namePart>Huff, Jim</namePart>
+      </name>
+   </subject>
+   <subject authority="local">
+      <name>
+         <namePart>Cox, Stella Huff.</namePart>
+      </name>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Images: From Pi Beta Phi to Arrowmont</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

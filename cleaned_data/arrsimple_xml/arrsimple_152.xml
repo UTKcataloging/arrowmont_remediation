@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="pid">arrsimple_152</identifier>
+   <identifier type="local">aai0153</identifier>
+   <titleInfo>
+      <title>Jewelry making  - 1947</title>
+   </titleInfo>
+   <abstract>A Summer Craft Workshop jewelry making class. Marian Heard is standing in the back left of the photograph.</abstract>
+   <originInfo>
+      <dateCreated encoding="edtf">1947</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85100163">
+      <topic>Persons</topic>
+   </subject>
+   <subject authority="local">
+      <name>
+         <namePart>Arrowcraft</namePart>
+      </name>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh00005946">
+      <topic>Jewelry</topic>
+   </subject>
+   <subject authority="local">
+      <name>
+         <namePart>Summer crafts workshop</namePart>
+      </name>
+   </subject>
+   <subject authority="local">
+      <temporal>Changing Mission of Pi Beta Phi Fraternity for Women in Gatlinburg, Tennessee, 1944-1964</temporal>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n80040520">
+      <geographic>Gatlinburg (Tenn.)</geographic>
+   </subject>
+   <subject authority="local">
+      <name>
+         <namePart>Heard, Marian</namePart>
+      </name>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Images: From Pi Beta Phi to Arrowmont</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>

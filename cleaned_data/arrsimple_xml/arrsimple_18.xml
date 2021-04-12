@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="pid">arrsimple_18</identifier>
+   <identifier type="local">aai0082</identifier>
+   <titleInfo>
+      <title>Mrs Elizabeth Helmick</title>
+   </titleInfo>
+   <originInfo>
+      <dateCreated encoding="edtf">1912</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+   </physicalDescription>
+   <subject>
+      <topic>Founders</topic>
+   </subject>
+   <subject>
+      <topic>Administrators</topic>
+   </subject>
+   <subject authority="local">
+      <temporal>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</temporal>
+   </subject>
+   <subject authority="local">
+      <name>
+         <namePart>Helmick, Elizabeth</namePart>
+      </name>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Images: From Pi Beta Phi to Arrowmont</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+</mods>
