@@ -17,11 +17,12 @@
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
    </physicalDescription>
    <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85100163">
-      <topic>Persons</topic>
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607">
+      <topic>People</topic>
    </subject>
-   <subject>
-      <topic>Staff</topic>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003582">
+      <topic>Employees</topic>
    </subject>
    <subject authority="local">
       <temporal>Birth of Arrowmont School of Arts and Crafts, Gatlinburg, Tennessee, 1965-1979</temporal>

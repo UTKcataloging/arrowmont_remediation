@@ -20,15 +20,16 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85028974">
       <topic>Committees</topic>
    </subject>
-   <subject>
-      <topic>Staff</topic>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003582">
+      <topic>Employees</topic>
    </subject>
    <subject>
       <topic>Administrators</topic>
    </subject>
    <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85100163">
-      <topic>Persons</topic>
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607">
+      <topic>People</topic>
    </subject>
    <subject authority="local">
       <temporal>Expansion and Growth of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1928-1943</temporal>

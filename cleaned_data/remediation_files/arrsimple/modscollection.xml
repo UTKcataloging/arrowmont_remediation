@@ -142,7 +142,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85012127"><topic>Basketwork</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -186,7 +186,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85135386"><topic>Timber</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -230,7 +230,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85148022"><topic>Woodwork</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -250,7 +250,7 @@
 <subject authority="local"><name><namePart>Ellsworth, David</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Taylor, John C</namePart></name></subject>
+
 
 
 
@@ -318,7 +318,7 @@
 <subject authority="local"><name><namePart>Arrowcraft</namePart></name></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85012127"><topic>Basketwork</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -498,7 +498,7 @@
 
 
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -536,7 +536,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85023418"><topic>Children</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 <subject authority="local"><name><namePart>Arrowmont School of Arts and Crafts</namePart></name></subject>
@@ -626,7 +626,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00006877"><topic>Painting</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -643,7 +643,7 @@
 <subject authority="local"><name><namePart>Kurka, Don</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Taylor, John C</namePart></name></subject>
+
 
 
 
@@ -714,7 +714,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85148022"><topic>Woodwork</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -731,7 +731,7 @@
 <subject authority="local"><name><namePart>McNaughton, John</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Taylor, John C</namePart></name></subject>
+
 
 
 
@@ -769,7 +769,7 @@
 
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80040520"><geographic>Gatlinburg (Tenn.)</geographic></subject>
-<subject authority="local"><name><namePart>Klebesadel, H</namePart></name></subject>
+
 
 
 
@@ -806,7 +806,7 @@
 
 
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -842,7 +842,7 @@
 <abstract>Mary L. Ownby making a chair</abstract>
 <originInfo><dateCreated encoding="edtf">1968</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 <subject authority="local"><name><namePart>Arrowcraft</namePart></name></subject>
@@ -890,7 +890,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00006943"><topic>Photography</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -907,7 +907,7 @@
 <subject authority="local"><name><namePart>Ramsdale, Jack</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Brugman, Gordon</namePart></name></subject>
+
 
 
 
@@ -974,9 +974,9 @@
 <abstract>The Watsons were photographed in front of the Old Ogle Cabin. Built by Martha Jane Husky Ogle, the first white settler in Gatlinburg.</abstract>
 <originInfo><dateCreated encoding="edtf">1956</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
-<subject><topic>Staff</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003582"><topic>Employees</topic></subject>
 
 
 
@@ -1062,9 +1062,9 @@
 <abstract>Neal, at left, and Arlie Watson.</abstract>
 <originInfo><dateCreated encoding="edtf">1956</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
-<subject><topic>Staff</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003582"><topic>Employees</topic></subject>
 
 
 
@@ -1110,7 +1110,7 @@
 
 
 <subject authority="local"><name><namePart>Arrowcraft</namePart></name></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -1198,7 +1198,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85105729"><topic>Pottery</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -1240,7 +1240,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 
 <subject authority="local"><name><namePart>Arrowcraft</namePart></name></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85058715"><topic>Handicraft</topic></subject>
 
@@ -1286,7 +1286,7 @@
 <subject authority="local"><name><namePart>Arrowcraft</namePart></name></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85012127"><topic>Basketwork</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -1330,7 +1330,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85134321"><topic>Textile fabrics</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -1347,7 +1347,7 @@
 <subject authority="local"><name><namePart>Morris, Joan</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Taylor, John C</namePart></name></subject>
+
 
 
 
@@ -1370,9 +1370,9 @@
 <abstract>Settlement School Director Marian Mueller sits at her desk.</abstract>
 <originInfo><dateCreated encoding="edtf">1965</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject><topic>Staff</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003582"><topic>Employees</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject><topic>Administrators</topic></subject>
 
@@ -1462,7 +1462,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85119004"><topic>Sculpture</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -1479,7 +1479,7 @@
 <subject authority="local"><name><namePart>Lockhart, Bob</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Taylor, John C</namePart></name></subject>
+
 
 
 
@@ -1652,7 +1652,7 @@
 <subject authority="local"><name><namePart>Lockhart, Bob</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Huff, Cynthia</namePart></name></subject>
+
 
 
 
@@ -1678,7 +1678,7 @@
 <abstract>Two teachers crossing a stream.</abstract>
 <originInfo><dateCreated encoding="edtf">1924-05-26</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85074392"><topic>Landscapes</topic></subject>
 
@@ -1766,7 +1766,7 @@
 <abstract>Sister Pasquina Tamagni examines samples of Arrowscraft weaving.</abstract>
 <originInfo><dateCreated encoding="edtf">1971</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145868"><topic>Weaving</topic></subject>
 
@@ -1858,7 +1858,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85132964"><topic>Teachers</topic></subject>
 
-<subject><topic>Staff</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003582"><topic>Employees</topic></subject>
 
 
 
@@ -1879,7 +1879,7 @@
 
 
 <subject authority="local"><name><namePart>Geare, Dorothy</namePart></name></subject>
-<subject authority="local"><name><namePart>Curtis, Frances.</namePart></name></subject>
+<subject authority="local"><name><namePart>Curtis, Frances</namePart></name></subject>
 
 
 
@@ -1990,7 +1990,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145868"><topic>Weaving</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -2010,7 +2010,7 @@
 <subject authority="local"><name><namePart>Sauer, Jane</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Huff, Cynthia</namePart></name></subject>
+
 
 
 
@@ -2166,7 +2166,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85058715"><topic>Handicraft</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -2208,7 +2208,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85012125"><topic>Baskets</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 <subject authority="local"><name><namePart>Arrowcraft</namePart></name></subject>
@@ -2254,7 +2254,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85148022"><topic>Woodwork</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -2274,7 +2274,7 @@
 <subject authority="local"><name><namePart>Schorsch, Cass</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Taylor, John C</namePart></name></subject>
+
 
 
 
@@ -2298,7 +2298,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145868"><topic>Weaving</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -2430,7 +2430,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85058715"><topic>Handicraft</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -2470,7 +2470,7 @@
 
 <originInfo><dateCreated encoding="edtf">1968</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145868"><topic>Weaving</topic></subject>
 
@@ -2514,7 +2514,7 @@
 <abstract>Mac McCarter and family on the porch of their home.</abstract>
 <originInfo><dateCreated encoding="edtf">1929</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 <subject authority="local"><name><namePart>Arrowcraft</namePart></name></subject>
@@ -2602,7 +2602,7 @@
 <abstract>Mary L. Ownby weaves the bottoms for Arrowcraft chairs.</abstract>
 <originInfo><dateCreated encoding="edtf">1945</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 <subject authority="local"><name><namePart>Arrowcraft</namePart></name></subject>
@@ -2868,7 +2868,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00007735"><topic>Sports</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2001008851"><topic>Social life and customs</topic></subject>
 
@@ -2956,7 +2956,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85132964"><topic>Teachers</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145868"><topic>Weaving</topic></subject>
 
@@ -3182,7 +3182,7 @@
 
 
 
-<subject><topic>Staff</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003582"><topic>Employees</topic></subject>
 
 
 
@@ -3218,7 +3218,7 @@
 
 <originInfo><dateCreated encoding="edtf">1949</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85046910"><topic>Fairs</topic></subject>
 
@@ -3321,7 +3321,7 @@
 
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80040520"><geographic>Gatlinburg (Tenn.)</geographic></subject>
-<subject authority="local"><name><namePart>Curtis, Frances</namePart></name></subject>
+
 
 
 
@@ -3350,7 +3350,7 @@
 
 <originInfo><dateCreated encoding="edtf">1925</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject><topic>Administrators</topic></subject>
 
@@ -3398,7 +3398,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85118940"><topic>Screen process printing</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -3412,7 +3412,7 @@
 
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80040520"><geographic>Gatlinburg (Tenn.)</geographic></subject>
-<subject authority="local"><name><namePart>Huff, Karen</namePart></name></subject>
+
 
 
 
@@ -3438,7 +3438,7 @@
 <abstract>Mary Pollard, at left, and two unidentified women by a mountain cabin.</abstract>
 <originInfo><dateCreated encoding="edtf">1925</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85078077"><topic>Log cabins</topic></subject>
 
@@ -3528,7 +3528,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85132964"><topic>Teachers</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85005249"><topic>Animals</topic></subject>
 
@@ -3570,9 +3570,9 @@
 
 <originInfo><dateCreated encoding="edtf">1991-06</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject><topic>Staff</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003582"><topic>Employees</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject><topic>Administrators</topic></subject>
 
@@ -3710,7 +3710,7 @@
 
 
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -3750,7 +3750,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145868"><topic>Weaving</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -3771,7 +3771,7 @@
 
 
 <subject authority="local"><name><namePart>Keener, Izora</namePart></name></subject>
-<subject authority="local"><name><namePart>Redding, Winogene.</namePart></name></subject>
+<subject authority="local"><name><namePart>Redding, Winogene</namePart></name></subject>
 
 
 
@@ -3792,7 +3792,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject><topic>Founders</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -3838,7 +3838,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85074392"><topic>Landscapes</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -3880,7 +3880,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85148187"><topic>Workshops</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 <subject authority="local"><name><namePart>Arrowcraft</namePart></name></subject>
@@ -3922,7 +3922,7 @@
 
 <originInfo><dateCreated encoding="edtf">1919</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85078097"><topic>Logging</topic></subject>
 
@@ -4010,9 +4010,9 @@
 <abstract>Neal Watson, Arrowmont maintenance man; his father was Arlie Watson, Arrowmont's first maintenance man.</abstract>
 <originInfo><dateCreated encoding="edtf">1965</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
-<subject><topic>Staff</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003582"><topic>Employees</topic></subject>
 
 
 
@@ -4188,7 +4188,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85082871"><topic>Medical care</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85063519"><topic>Hygiene</topic></subject>
 
@@ -4283,7 +4283,7 @@
 <subject authority="local"><temporal>Arrowmont School of Arts and Crafts in the Modern Era, Gatlinburg, Tennessee, 1980-2004</temporal></subject>
 
 
-<subject authority="local"><name><namePart>Wilchins, Susan</namePart></name></subject>
+
 
 
 
@@ -4366,7 +4366,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85106831"><topic>Prints</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -4380,7 +4380,7 @@
 
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80040520"><geographic>Gatlinburg (Tenn.)</geographic></subject>
-<subject authority="local"><name><namePart>Juna, Anita</namePart></name></subject>
+
 
 
 
@@ -4586,7 +4586,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85005249"><topic>Animals</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -4607,7 +4607,7 @@
 
 
 <subject authority="local"><name><namePart>Reagan, Allie</namePart></name></subject>
-<subject authority="local"><name><namePart>Reagan, Flora.</namePart></name></subject>
+<subject authority="local"><name><namePart>Reagan, Flora</namePart></name></subject>
 
 
 
@@ -4628,7 +4628,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85058715"><topic>Handicraft</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85132964"><topic>Teachers</topic></subject>
 
@@ -4758,7 +4758,7 @@
 <abstract>Harrison McCarter, Settlement School handyman and basket-maker. Postcard created by Cline.</abstract>
 <originInfo><dateCreated encoding="edtf">1931</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject><topic>Baskets</topic></subject>
 
@@ -4766,7 +4766,7 @@
 
 
 
-<subject><topic>Staff</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003582"><topic>Employees</topic></subject>
 
 
 
@@ -5024,7 +5024,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145868"><topic>Weaving</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00005740"><topic>Facilities</topic></subject>
 
@@ -5119,7 +5119,7 @@
 <subject authority="local"><temporal>Arrowmont School of Arts and Crafts in the Modern Era, Gatlinburg, Tennessee, 1980-2004</temporal></subject>
 
 
-<subject authority="local"><name><namePart>Lee, Susan Webb</namePart></name></subject>
+
 
 
 
@@ -5154,7 +5154,7 @@
 <abstract>The mountain way of hauling produce to market.</abstract>
 <originInfo><dateCreated encoding="edtf">1920</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85077784"><topic>Livestock</topic></subject>
 
@@ -5198,7 +5198,7 @@
 
 <originInfo><dateCreated encoding="edtf">1949</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85046910"><topic>Fairs</topic></subject>
 
@@ -5290,7 +5290,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00006943"><topic>Photography</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -5304,7 +5304,7 @@
 
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80040520"><geographic>Gatlinburg (Tenn.)</geographic></subject>
-<subject authority="local"><name><namePart>Verstegen, Clare</namePart></name></subject>
+
 
 
 
@@ -5374,7 +5374,7 @@
 <abstract>Pi Phi Nurse, Phylis Higinbotham, give immunization shots to young people.</abstract>
 <originInfo><dateCreated encoding="edtf">1922</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject><topic>Staff</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003582"><topic>Employees</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85093349"><topic>Nurses</topic></subject>
 
@@ -5554,7 +5554,7 @@
 
 
 <subject authority="local"><name><namePart>Arrowcraft</namePart></name></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -5594,7 +5594,7 @@
 <abstract>Left to right: Lucinda Oakley Ogle, Myrtle Parton, Veatress Parton, Georgia Duffield, unknown, unknown, unknown with Rex the Collie (this is a duplicate of photo 1, page 86, album 3)</abstract>
 <originInfo><dateCreated encoding="edtf">1927</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85005249"><topic>Animals</topic></subject>
 
@@ -5619,7 +5619,7 @@
 
 
 <subject authority="local"><name><namePart>Parton, Myrtle</namePart></name></subject>
-<subject authority="local"><name><namePart>Parton, Veatress.</namePart></name></subject>
+<subject authority="local"><name><namePart>Parton, Veatress</namePart></name></subject>
 
 
 
@@ -5642,7 +5642,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145868"><topic>Weaving</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -5659,7 +5659,7 @@
 <subject authority="local"><name><namePart>Lindberg, Anne</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Taylor, John C</namePart></name></subject>
+
 
 
 
@@ -5726,7 +5726,7 @@
 <abstract>A large group of townsfolk, possibly gathered for a Settlement School 'closes' - a celebratory occasion held on the last day of the school year.</abstract>
 <originInfo><dateCreated encoding="edtf">1915</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85129296"><topic>Students</topic></subject>
 
@@ -5774,7 +5774,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85058715"><topic>Handicraft</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -5816,7 +5816,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85008324"><topic>Arts</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 <subject authority="local"><name><namePart>Arrowmont School of Arts and Crafts</namePart></name></subject>
@@ -5832,7 +5832,7 @@
 <subject authority="local"><name><namePart>Liddle, Matthew</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Taylor, John C</namePart></name></subject>
+
 
 
 
@@ -5910,7 +5910,7 @@
 
 
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -5927,8 +5927,8 @@
 
 
 <subject authority="local"><name><namePart>Parton, Myrtle</namePart></name></subject>
-<subject authority="local"><name><namePart>Ogle, Lucinda Oakley.</namePart></name></subject>
-<subject authority="local"><name><namePart>Dowell, Barbara.</namePart></name></subject>
+<subject authority="local"><name><namePart>Ogle, Lucinda Oakley</namePart></name></subject>
+<subject authority="local"><name><namePart>Dowell, Barbara</namePart></name></subject>
 
 
 <language>
@@ -5994,7 +5994,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00006877"><topic>Painting</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -6014,7 +6014,7 @@
 <subject authority="local"><name><namePart>Goldenstein, Marcia</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Huff, Cynthia</namePart></name></subject>
+
 
 
 
@@ -6034,9 +6034,9 @@
 <abstract>Aunt Lizze Reagan with her spinning wheel outside of the Teachers' Cottage.</abstract>
 <originInfo><dateCreated encoding="edtf">1919</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
-<subject><topic>Staff</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003582"><topic>Employees</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136049"><topic>Tools</topic></subject>
 
@@ -6078,7 +6078,7 @@
 <abstract>From left to right: Mary Compton, Aunt Sallie Compton, Mother Mary, and Mitchel Compton.</abstract>
 <originInfo><dateCreated encoding="edtf">1916</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 <subject authority="local"><name><namePart>Arrowcraft</namePart></name></subject>
@@ -6210,7 +6210,7 @@
 <abstract>A group of teachers and staff on horseback.</abstract>
 <originInfo><dateCreated encoding="edtf">1928</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85077784"><topic>Livestock</topic></subject>
 
@@ -6344,7 +6344,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85093349"><topic>Nurses</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85005249"><topic>Animals</topic></subject>
 
@@ -6434,7 +6434,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145868"><topic>Weaving</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -6442,7 +6442,7 @@
 
 <subject authority="local"><temporal>Arrowmont School of Arts and Crafts in the Modern Era, Gatlinburg, Tennessee, 1980-2004</temporal></subject>
 
-<subject authority="local"><name><namePart>Strand, Laura</namePart></name></subject>
+
 
 
 
@@ -6476,7 +6476,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 
 <subject authority="local"><name><namePart>Arrowcraft</namePart></name></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85058715"><topic>Handicraft</topic></subject>
 
@@ -6522,7 +6522,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00006877"><topic>Painting</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -6566,7 +6566,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145868"><topic>Weaving</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -6583,7 +6583,7 @@
 <subject authority="local"><name><namePart>DuBois, Emily</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Huff, Cynthia</namePart></name></subject>
+
 
 
 
@@ -6654,7 +6654,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85119004"><topic>Sculpture</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -6962,7 +6962,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85132964"><topic>Teachers</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -7002,7 +7002,7 @@
 <abstract>Sandy Blain and Ray Pierotti in an Arrowcraft class.</abstract>
 <originInfo><dateCreated encoding="edtf">1978</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject><topic>Staff</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003582"><topic>Employees</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00005740"><topic>Facilities</topic></subject>
 
@@ -7180,7 +7180,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85008324"><topic>Arts</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 <subject authority="local"><name><namePart>Arrowmont School of Arts and Crafts</namePart></name></subject>
@@ -7270,7 +7270,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85119004"><topic>Sculpture</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -7400,7 +7400,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85008324"><topic>Arts</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85105729"><topic>Pottery</topic></subject>
 
@@ -7758,7 +7758,7 @@
 
 
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -7838,9 +7838,9 @@
 
 <originInfo><dateCreated encoding="edtf">1980</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject><topic>Staff</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003582"><topic>Employees</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145868"><topic>Weaving</topic></subject>
 
@@ -7928,7 +7928,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 
 <subject authority="local"><name><namePart>Arrowcraft</namePart></name></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85126713"><topic>Spinning</topic></subject>
 
@@ -8190,7 +8190,7 @@
 <abstract>Bonnie Hutchinson, California Gamma of San Marino, puts enamel in kiln; Summer Craft Workshop, 1961.</abstract>
 <originInfo><dateCreated encoding="edtf">1961</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 <subject authority="local"><name><namePart>Summer craft workshop</namePart></name></subject>
@@ -8236,7 +8236,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145868"><topic>Weaving</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 <subject authority="local"><name><namePart>Arrowcraft</namePart></name></subject>
@@ -8282,7 +8282,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145868"><topic>Weaving</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -8299,7 +8299,7 @@
 <subject authority="local"><name><namePart>Carson, Ted</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Sullivan, Linda</namePart></name></subject>
+
 
 
 
@@ -8502,7 +8502,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85005249"><topic>Animals</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -8546,7 +8546,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145868"><topic>Weaving</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -8563,7 +8563,7 @@
 <subject authority="local"><name><namePart>Grayson, Persis</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Brown, Cynthia</namePart></name></subject>
+
 
 
 
@@ -8678,7 +8678,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85105729"><topic>Pottery</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -8695,7 +8695,7 @@
 
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80040520"><geographic>Gatlinburg (Tenn.)</geographic></subject>
-<subject authority="local"><name><namePart>Huff, Cynthia</namePart></name></subject>
+
 
 
 
@@ -8722,7 +8722,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85012127"><topic>Basketwork</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -8739,7 +8739,7 @@
 <subject authority="local"><name><namePart>Holsenbeck, Bryant</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Mcgavin, Margaret</namePart></name></subject>
+
 
 
 
@@ -8898,7 +8898,7 @@
 <subject authority="local"><name><namePart>Settlement School Committee</namePart></name></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh2008009878"><topic>Home visits (Education)</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -8942,7 +8942,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145868"><topic>Weaving</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -8986,7 +8986,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85148022"><topic>Woodwork</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -9003,7 +9003,7 @@
 <subject authority="local"><name><namePart>Key, Ray</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Taylor, John C</namePart></name></subject>
+
 
 
 
@@ -9118,7 +9118,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85022017"><topic>Ceramics</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -9132,7 +9132,7 @@
 
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80040520"><geographic>Gatlinburg (Tenn.)</geographic></subject>
-<subject authority="local"><name><namePart>Taylor, John C</namePart></name></subject>
+
 
 
 
@@ -9162,7 +9162,7 @@
 <subject authority="local"><name><namePart>Arrowcraft</namePart></name></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85148187"><topic>Workshops</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -9206,7 +9206,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85148022"><topic>Woodwork</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -9223,7 +9223,7 @@
 <subject authority="local"><name><namePart>Fain, Virginia</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Johnson, Debbie</namePart></name></subject>
+
 
 
 
@@ -9248,7 +9248,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85118295"><topic>School children</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85118278"><topic>School buildings</topic></subject>
 
@@ -9338,7 +9338,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85012127"><topic>Basketwork</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -9352,7 +9352,7 @@
 
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80040520"><geographic>Gatlinburg (Tenn.)</geographic></subject>
-<subject authority="local"><name><namePart>Huff, Cynthia</namePart></name></subject>
+
 
 
 
@@ -9426,7 +9426,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00006943"><topic>Photography</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -9443,7 +9443,7 @@
 <subject authority="local"><name><namePart>Huibregtse, Gary</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Taylor, John C</namePart></name></subject>
+
 
 
 
@@ -9514,7 +9514,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00006943"><topic>Photography</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -9528,7 +9528,7 @@
 
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80040520"><geographic>Gatlinburg (Tenn.)</geographic></subject>
-<subject authority="local"><name><namePart>Taylor, John C</namePart></name></subject>
+
 
 
 
@@ -9558,7 +9558,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85012127"><topic>Basketwork</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -9575,7 +9575,7 @@
 <subject authority="local"><name><namePart>Petersons, Rise</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Huff, Cynthia</namePart></name></subject>
+
 
 
 
@@ -9734,7 +9734,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85039408"><topic>Drawing</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -9774,9 +9774,9 @@
 <abstract>From left to right: Otto J. Mattil, unknow, Crocett Denton, Marian Folsom, Irene Linkaus, and Phylis Higinbotham at right with hand raised.</abstract>
 <originInfo><dateCreated encoding="edtf">1925</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject><topic>Staff</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003582"><topic>Employees</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -9818,7 +9818,7 @@
 <abstract>Aunt Lydia Whaley at her spinning wheel.</abstract>
 <originInfo><dateCreated encoding="edtf">1920</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85126713"><topic>Spinning</topic></subject>
 
@@ -9931,8 +9931,8 @@
 
 
 <subject authority="local"><name><namePart>Bishop, Evelyn</namePart></name></subject>
-<subject authority="local"><name><namePart>Geare, Dorothy.</namePart></name></subject>
-<subject authority="local"><name><namePart>Ball, Margaret.</namePart></name></subject>
+<subject authority="local"><name><namePart>Geare, Dorothy</namePart></name></subject>
+<subject authority="local"><name><namePart>Ball, Margaret</namePart></name></subject>
 
 
 <language>
@@ -10003,7 +10003,7 @@
 <subject authority="local"><temporal>Arrowmont School of Arts and Crafts in the Modern Era, Gatlinburg, Tennessee, 1980-2004</temporal></subject>
 
 
-<subject authority="local"><name><namePart>Thiever, Rachelle</namePart></name></subject>
+
 
 
 
@@ -10040,7 +10040,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145868"><topic>Weaving</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85058715"><topic>Handicraft</topic></subject>
 
@@ -10174,7 +10174,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145868"><topic>Weaving</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -10216,7 +10216,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145868"><topic>Weaving</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 <subject authority="local"><name><namePart>Arrowcraft</namePart></name></subject>
@@ -10262,7 +10262,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85012127"><topic>Basketwork</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -10279,7 +10279,7 @@
 <subject authority="local"><name><namePart>Zimmerman, Lee</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Huff, Cynthia</namePart></name></subject>
+
 
 
 
@@ -10394,7 +10394,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00006877"><topic>Painting</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -10442,7 +10442,7 @@
 
 
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -10482,7 +10482,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85119004"><topic>Sculpture</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -10524,7 +10524,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85008324"><topic>Arts</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 <subject authority="local"><name><namePart>Arrowmont School of Arts and Crafts</namePart></name></subject>
@@ -10570,7 +10570,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85058715"><topic>Handicraft</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -10614,7 +10614,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85148022"><topic>Woodwork</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -10634,7 +10634,7 @@
 <subject authority="local"><name><namePart>Stewart, Rick</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Huff, Cynthia</namePart></name></subject>
+
 
 
 
@@ -10698,7 +10698,7 @@
 <abstract>Students playing baseball; Squire Maples' house is visible in the background on the far left.</abstract>
 <originInfo><dateCreated encoding="edtf">1925</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00007735"><topic>Sports</topic></subject>
 
@@ -10744,7 +10744,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85023418"><topic>Children</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -10794,7 +10794,7 @@
 
 
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -10966,7 +10966,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85105729"><topic>Pottery</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -11096,7 +11096,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85074392"><topic>Landscape</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136255"><topic>Tourism</topic></subject>
 
@@ -11272,7 +11272,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85132964"><topic>Teachers</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 <subject authority="local"><name><namePart>Teachers' Cottage</namePart></name></subject>
@@ -11316,13 +11316,13 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028974"><topic>Committees</topic></subject>
 
-<subject><topic>Staff</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003582"><topic>Employees</topic></subject>
 
 <subject><topic>Administrators</topic></subject>
 
 
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -11402,7 +11402,7 @@
 <abstract>Lucinda Oakley Ogle coming through the Turkey's Nest.</abstract>
 <originInfo><dateCreated encoding="edtf">1919</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85055012"><topic>Girls</topic></subject>
 
@@ -11492,7 +11492,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00005740"><topic>Facilities</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85005249"><topic>Animals</topic></subject>
 
@@ -11534,9 +11534,9 @@
 <abstract>One of Arrowmont's handymen.</abstract>
 <originInfo><dateCreated encoding="edtf">1970</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
-<subject><topic>Staff</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003582"><topic>Employees</topic></subject>
 
 
 
@@ -11624,7 +11624,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 
 <subject authority="local"><name><namePart>Arrowcraft</namePart></name></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145868"><topic>Weaving</topic></subject>
 
@@ -11647,7 +11647,7 @@
 
 
 <subject authority="local"><name><namePart>Wilson, Tim</namePart></name></subject>
-<subject authority="local"><name><namePart>Shults, Rodney.</namePart></name></subject>
+<subject authority="local"><name><namePart>Shults, Rodney</namePart></name></subject>
 
 
 
@@ -11712,7 +11712,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85008324"><topic>Arts</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85022017"><topic>Ceramics</topic></subject>
 
@@ -11775,7 +11775,7 @@
 
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80040520"><geographic>Gatlinburg (Tenn.)</geographic></subject>
-<subject authority="local"><name><namePart>Taylor, John C</namePart></name></subject>
+
 
 
 
@@ -11802,7 +11802,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00006877"><topic>Painting</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -11857,7 +11857,7 @@
 
 <subject authority="local"><temporal>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</temporal></subject>
 
-<subject authority="local"><name><namePart>Thompson, Jim</namePart></name></subject>
+
 
 
 
@@ -11886,11 +11886,11 @@
 <abstract>Harrison McCarter, Man About The School and Farm, Also a Deputy Sheriff, with Dan, Faithful Pi Phi Horse.</abstract>
 <originInfo><dateCreated encoding="edtf">1919</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject><topic>Staff</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003582"><topic>Employees</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85005249"><topic>Animals</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -11934,7 +11934,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85148022"><topic>Woodwork</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -11951,7 +11951,7 @@
 <subject authority="local"><name><namePart>Burelson, Ron</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Taylor, John C</namePart></name></subject>
+
 
 
 
@@ -11974,7 +11974,7 @@
 
 <originInfo><dateCreated encoding="edtf">1965</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -12070,7 +12070,7 @@
 
 
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -12194,7 +12194,7 @@
 <abstract>A Summer Craft Workshop jewelry making class. Marian Heard is standing in the back left of the photograph.</abstract>
 <originInfo><dateCreated encoding="edtf">1947</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 <subject authority="local"><name><namePart>Arrowcraft</namePart></name></subject>
@@ -12238,7 +12238,7 @@
 <abstract>Steve Whaley, 2nd from left; Evelyn Bishop, 2nd from right.</abstract>
 <originInfo><dateCreated encoding="edtf">1919</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85047009"><topic>Families</topic></subject>
 
@@ -12286,7 +12286,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00006877"><topic>Painting</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -12303,7 +12303,7 @@
 
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80040520"><geographic>Gatlinburg (Tenn.)</geographic></subject>
-<subject authority="local"><name><namePart>Taylor, John C</namePart></name></subject>
+
 
 
 
@@ -12374,7 +12374,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85105729"><topic>Pottery</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -12462,7 +12462,7 @@
 <subject authority="local"><name><namePart>Arrowcraft</namePart></name></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85012127"><topic>Basketwork</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -12550,7 +12550,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85119004"><topic>Sculpture</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -12570,7 +12570,7 @@
 <subject authority="local"><name><namePart>Lockhart, Bob</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Taylor, John C</namePart></name></subject>
+
 
 
 
@@ -12590,7 +12590,7 @@
 
 <originInfo><dateCreated encoding="edtf">1928</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85077784"><topic>Livestock</topic></subject>
 
@@ -12638,7 +12638,7 @@
 <subject authority="local"><name><namePart>Arrowcraft</namePart></name></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145868"><topic>Weaving</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -12768,7 +12768,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85078077"><topic>Log cabins</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 <subject authority="local"><name><namePart>Pi Beta Phi Settlement School</namePart></name></subject>
@@ -12902,7 +12902,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85118940"><topic>Screen process printing</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -12922,7 +12922,7 @@
 <subject authority="local"><name><namePart>Loar, Steve</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Taylor, John C</namePart></name></subject>
+
 
 
 
@@ -12990,7 +12990,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85058715"><topic>Handicraft</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -13122,7 +13122,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85058715"><topic>Handicraft</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -13210,7 +13210,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85055012"><topic>Girls</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -13254,7 +13254,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00006877"><topic>Painting</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -13271,7 +13271,7 @@
 
 
 
-<subject authority="local"><name><namePart>Verstegen, Clare</namePart></name></subject>
+
 
 
 
@@ -13294,7 +13294,7 @@
 <abstract>Group picture of students.</abstract>
 <originInfo><dateCreated encoding="edtf">2005</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh99004941"><topic>Children</topic></subject>
 
@@ -13346,7 +13346,7 @@
 
 
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -13359,7 +13359,7 @@
 
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80040520"><geographic>Gatlinburg (Tenn.)</geographic></subject>
-<subject authority="local"><name><namePart>Taylor, John C</namePart></name></subject>
+
 
 
 
@@ -13386,7 +13386,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00006877"><topic>Painting</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -13434,7 +13434,7 @@
 
 
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -13447,7 +13447,7 @@
 
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80040520"><geographic>Gatlinburg (Tenn.)</geographic></subject>
-<subject authority="local"><name><namePart>Taylor, John C</namePart></name></subject>
+
 
 
 
@@ -13485,7 +13485,7 @@
 
 <subject authority="local"><temporal>Founding of Pi Beta Phi Settlement School, Gatlinburg, Tennessee, 1909-1927</temporal></subject>
 
-<subject authority="local"><name><namePart>Thompson, Jim</namePart></name></subject>
+
 
 
 
@@ -13518,7 +13518,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00006877"><topic>Painting</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -13535,7 +13535,7 @@
 <subject authority="local"><name><namePart>Rice, Tom</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Taylor, John C</namePart></name></subject>
+
 
 
 
@@ -13562,7 +13562,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145868"><topic>Weaving</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -13570,7 +13570,7 @@
 
 <subject authority="local"><temporal>Arrowmont School of Arts and Crafts in the Modern Era, Gatlinburg, Tennessee, 1980-2004</temporal></subject>
 
-<subject authority="local"><name><namePart>Lopez, Lidia Amanda de</namePart></name></subject>
+
 
 
 
@@ -13671,7 +13671,7 @@
 
 
 <subject authority="local"><name><namePart>Huff, Jim</namePart></name></subject>
-<subject authority="local"><name><namePart>Cox, Stella Huff.</namePart></name></subject>
+<subject authority="local"><name><namePart>Cox, Stella Huff</namePart></name></subject>
 
 
 
@@ -13742,7 +13742,7 @@
 
 
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -13759,7 +13759,7 @@
 
 
 <subject authority="local"><name><namePart>Crowder, Barry</namePart></name></subject>
-<subject authority="local"><name><namePart>Huff, Cynthia.</namePart></name></subject>
+
 
 
 
@@ -13780,7 +13780,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85008324"><topic>Arts</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85134321"><topic>Textile fabrics</topic></subject>
 
@@ -14006,7 +14006,7 @@
 
 
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -14090,7 +14090,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00006877"><topic>Painting</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -14262,7 +14262,7 @@
 <abstract>UTK, Tennessee Alpha</abstract>
 <originInfo><dateCreated encoding="edtf">1945</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -14354,7 +14354,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145868"><topic>Weaving</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -14394,7 +14394,7 @@
 <abstract>1st row, left to right: Jack B. Maples, Virginia Davenport; 2nd row: Unknown, Roy Maples; 3rd row: Jack Reagan, Aileen Barnes; Teacher unknown.</abstract>
 <originInfo><dateCreated encoding="edtf">1940</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85118295"><topic>School children</topic></subject>
 
@@ -14482,7 +14482,7 @@
 
 <originInfo><dateCreated encoding="edtf">1940</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85055012"><topic>Girls</topic></subject>
 
@@ -14662,7 +14662,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85022017"><topic>Ceramics</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -14676,7 +14676,7 @@
 
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80040520"><geographic>Gatlinburg (Tenn.)</geographic></subject>
-<subject authority="local"><name><namePart>Taylor, John C</namePart></name></subject>
+
 
 
 
@@ -14754,7 +14754,7 @@
 
 
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -14880,13 +14880,13 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028974"><topic>Committees</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject><topic>Administrators</topic></subject>
 
 
 
-<subject><topic>Staff</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003582"><topic>Employees</topic></subject>
 
 
 
@@ -14903,8 +14903,8 @@
 
 
 <subject authority="local"><name><namePart>Moore, Olivia</namePart></name></subject>
-<subject authority="local"><name><namePart>Russell, Helen.</namePart></name></subject>
-<subject authority="local"><name><namePart>Dix, Helen.</namePart></name></subject>
+<subject authority="local"><name><namePart>Russell, Helen</namePart></name></subject>
+<subject authority="local"><name><namePart>Dix, Helen</namePart></name></subject>
 <subject authority="local"><name><namePart>James, Zoe</namePart></name></subject>
 <subject authority="local"><name><namePart>Heard, Marian</namePart></name></subject>
 <language>
@@ -14970,7 +14970,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85148022"><topic>Woodwork</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -15010,7 +15010,7 @@
 <abstract>Aunt Lydia Whaley at her loom.</abstract>
 <originInfo><dateCreated encoding="edtf">1919</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85126713"><topic>Spinning</topic></subject>
 
@@ -15056,7 +15056,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85132964"><topic>Teachers</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -15146,7 +15146,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85070232"><topic>Jewelry making</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -15167,7 +15167,7 @@
 
 
 <subject authority="local"><name><namePart>Johnson, Dickie</namePart></name></subject>
-<subject authority="local"><name><namePart>Mounts, Orla.</namePart></name></subject>
+<subject authority="local"><name><namePart>Mounts, Orla</namePart></name></subject>
 
 
 
@@ -15186,7 +15186,7 @@
 <abstract>Aunt Lydia Whaley, outside of her residence.</abstract>
 <originInfo><dateCreated encoding="edtf">1922</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject><topic>Living conditions</topic></subject>
 
@@ -15204,7 +15204,7 @@
 <subject authority="local"><name><namePart>Whaley, Aunt Lydia</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Stark, Nita Hill</namePart></name></subject>
+
 
 
 
@@ -15234,7 +15234,7 @@
 <subject authority="local"><name><namePart>Arrowcraft</namePart></name></subject>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85148187"><topic>Workshops</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -15333,7 +15333,7 @@
 
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80040520"><geographic>Gatlinburg (Tenn.)</geographic></subject>
-<subject authority="local"><name><namePart>McPeck, Zach</namePart></name></subject>
+
 
 
 
@@ -15366,7 +15366,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85148022"><topic>Woodwork</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -15603,7 +15603,7 @@
 <subject authority="local"><name><namePart>Sturley, Ruth</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Burton, Emily</namePart></name></subject>
+
 
 
 
@@ -15718,7 +15718,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145868"><topic>Weaving</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -15732,7 +15732,7 @@
 
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80040520"><geographic>Gatlinburg (Tenn.)</geographic></subject>
-<subject authority="local"><name><namePart>Johnson, Debbie</namePart></name></subject>
+
 
 
 
@@ -15773,7 +15773,7 @@
 
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80040520"><geographic>Gatlinburg (Tenn.)</geographic></subject>
-<subject authority="local"><name><namePart>Archer, Sue</namePart></name></subject>
+
 
 
 
@@ -16119,7 +16119,7 @@
 <subject authority="local"><temporal>Arrowmont School of Arts and Crafts in the Modern Era, Gatlinburg, Tennessee, 1980-2004</temporal></subject>
 
 
-<subject authority="local"><name><namePart>Allen, Patsy</namePart></name></subject>
+
 
 
 
@@ -16206,7 +16206,7 @@
 
 
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -16219,7 +16219,7 @@
 
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80040520"><geographic>Gatlinburg (Tenn.)</geographic></subject>
-<subject authority="local"><name><namePart>Verstegen, Clare</namePart></name></subject>
+
 
 
 
@@ -16470,7 +16470,7 @@
 
 
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -16506,7 +16506,7 @@
 <abstract>Mitchel Compton, the man who made "White Oak Split" baskets for the Settlement School in 1916 - 1917. The White Oak Flats Baptist Church is visible on the left, and the One-Room Schoolhouse on Baskins Creek is visible to the right, behind Mitchel Compton's elbow.</abstract>
 <originInfo><dateCreated encoding="edtf">1916</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 <subject authority="local"><name><namePart>Arrowcraft</namePart></name></subject>
@@ -16558,7 +16558,7 @@
 
 
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -16602,7 +16602,7 @@
 
 
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -16682,7 +16682,7 @@
 
 <originInfo><dateCreated encoding="edtf">1932</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -16772,7 +16772,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85008324"><topic>Arts</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85148022"><topic>Woodwork</topic></subject>
 
@@ -16814,7 +16814,7 @@
 <abstract>Polly and Tom McCarter at a cotton gin.</abstract>
 <originInfo><dateCreated encoding="edtf">1919</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85136049"><topic>Tools</topic></subject>
 
@@ -16911,7 +16911,7 @@
 <subject authority="local"><temporal>Arrowmont School of Arts and Crafts in the Modern Era, Gatlinburg, Tennessee, 1980-2004</temporal></subject>
 
 
-<subject authority="local"><name><namePart>Santuyers, Stephanie</namePart></name></subject>
+
 
 
 
@@ -16948,7 +16948,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 
 <subject authority="local"><name><namePart>Settlement School Committee</namePart></name></subject>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85074392"><topic>Landscapes</topic></subject>
 
@@ -16994,7 +16994,7 @@
 
 <subject><topic>Stained glass</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -17034,7 +17034,7 @@
 <abstract>Eli McCarter, preacher, 1903</abstract>
 <originInfo><dateCreated encoding="edtf">1903-06-09</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85112549"><topic>Religion</topic></subject>
 
@@ -17210,7 +17210,7 @@
 <abstract>Mollie Moore, 6th from left, front row, in plaid.</abstract>
 <originInfo><dateCreated encoding="edtf">1957</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145868"><topic>Weaving</topic></subject>
 
@@ -17256,7 +17256,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85008324"><topic>Arts</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject><topic>Broom making</topic></subject>
 
@@ -17298,7 +17298,7 @@
 <abstract>Ray Pierotti, Arrowmont Director, 1978, manipulating a printing screen.</abstract>
 <originInfo><dateCreated encoding="edtf">1978</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00005740"><topic>Facilities</topic></subject>
 
@@ -17386,9 +17386,9 @@
 
 <originInfo><dateCreated encoding="edtf">1990</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject><topic>Staff</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003582"><topic>Employees</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85008324"><topic>Arts</topic></subject>
 
@@ -17434,7 +17434,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85039408"><topic>Drawing</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -17476,13 +17476,13 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028974"><topic>Committees</topic></subject>
 
-<subject><topic>Staff</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003582"><topic>Employees</topic></subject>
 
 <subject><topic>Administrators</topic></subject>
 
 
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -17499,8 +17499,8 @@
 
 
 <subject authority="local"><name><namePart>Onken, Amy Burnham</namePart></name></subject>
-<subject authority="local"><name><namePart>Chalmers, Marjorie.</namePart></name></subject>
-<subject authority="local"><name><namePart>Snow, Ethel.</namePart></name></subject>
+<subject authority="local"><name><namePart>Chalmers, Marjorie</namePart></name></subject>
+<subject authority="local"><name><namePart>Snow, Ethel</namePart></name></subject>
 
 
 <language>
@@ -17614,7 +17614,7 @@
 
 
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -17702,7 +17702,7 @@
 <subject authority="local"><name><namePart>Arrowcraft</namePart></name></subject>
 
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -17715,7 +17715,7 @@
 
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80040520"><geographic>Gatlinburg (Tenn.)</geographic></subject>
-<subject authority="local"><name><namePart>Sheremeta, R</namePart></name></subject>
+
 
 
 
@@ -17738,7 +17738,7 @@
 <abstract>1st Foreign Credit Tour from the University; Pi Phi Phi and the University of Tennessee Scandanavia Craft Tour. Marian Heard, 5th from left.</abstract>
 <originInfo><dateCreated encoding="edtf">1955</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject><topic>Activities</topic></subject>
 
@@ -17784,7 +17784,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85074392"><topic>Landscape</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85050184"><topic>Food</topic></subject>
 
@@ -17826,7 +17826,7 @@
 
 <originInfo><dateCreated encoding="edtf">1925</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject><topic>Living conditions</topic></subject>
 
@@ -17874,7 +17874,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85134321"><topic>Textile fabrics</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -17922,7 +17922,7 @@
 
 
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -17962,7 +17962,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85016211"><topic>Boys</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -18048,7 +18048,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85008324"><topic>Arts</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145868"><topic>Weaving</topic></subject>
 
@@ -18222,11 +18222,11 @@
 <abstract>The inscription reads: Dear Polly, The director says that not only the workers but all the residents of the town know the name Mary Pollard. The displays are reminiscent of top floor West. And this is a real tribute to my favorite instructor. We are stopping in the Smokies enroute to a Florida vacation. Love, Arlene Reasoner Sayre - To Miss Mary Pollard.</abstract>
 <originInfo><dateCreated encoding="edtf">1940-09-20</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85132964"><topic>Teachers</topic></subject>
 
-<subject><topic>Staff</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003582"><topic>Employees</topic></subject>
 
 
 
@@ -18275,7 +18275,7 @@
 <subject authority="local"><temporal>Arrowmont School of Arts and Crafts in the Modern Era, Gatlinburg, Tennessee, 1980-2004</temporal></subject>
 
 
-<subject authority="local"><name><namePart>Harlan, Susan</namePart></name></subject>
+
 
 
 
@@ -18314,7 +18314,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85145868"><topic>Weaving</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -18322,7 +18322,7 @@
 
 <subject authority="local"><temporal>Arrowmont School of Arts and Crafts in the Modern Era, Gatlinburg, Tennessee, 1980-2004</temporal></subject>
 
-<subject authority="local"><name><namePart>Lopez, Lidia Amanda de</namePart></name></subject>
+
 
 
 
@@ -18398,7 +18398,7 @@
 <abstract>Aunt Lizzie Reagan prepares to "throw" her shuttle at her loom.</abstract>
 <originInfo><dateCreated encoding="edtf">1930</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85058715"><topic>Handicraft</topic></subject>
 
@@ -18444,7 +18444,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85023418"><topic>Children</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85082871"><topic>Medical care</topic></subject>
 
@@ -18534,7 +18534,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00006877"><topic>Painting</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -18592,7 +18592,7 @@
 
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80040520"><geographic>Gatlinburg (Tenn.)</geographic></subject>
-<subject authority="local"><name><namePart>Dubois, Emily</namePart></name></subject>
+
 
 
 
@@ -18622,7 +18622,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85082871"><topic>Medical care</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -18664,7 +18664,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85005249"><topic>Animals</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject><topic>Homes</topic></subject>
 
@@ -18710,7 +18710,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85148022"><topic>Woodwork</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -18724,7 +18724,7 @@
 
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80040520"><geographic>Gatlinburg (Tenn.)</geographic></subject>
-<subject authority="local"><name><namePart>Blain, Sandy</namePart></name></subject>
+
 
 
 
@@ -18802,7 +18802,7 @@
 
 
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -18818,7 +18818,7 @@
 <subject authority="local"><name><namePart>Troy, Jack</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Huff, Cynthia</namePart></name></subject>
+
 
 
 
@@ -18842,7 +18842,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85070232"><topic>Jewelry making</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -18859,7 +18859,7 @@
 <subject authority="local"><name><namePart>Flynn, Pat</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Taylor, John C</namePart></name></subject>
+
 
 
 
@@ -18882,7 +18882,7 @@
 <abstract>Aunt Lydia Whaley with her Bible.</abstract>
 <originInfo><dateCreated encoding="edtf">1919</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85112549"><topic>Religion</topic></subject>
 
@@ -19018,7 +19018,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85012127"><topic>Basketwork</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -19035,7 +19035,7 @@
 <subject authority="local"><name><namePart>Keats, Kim</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Taylor, John C</namePart></name></subject>
+
 
 
 
@@ -19190,7 +19190,7 @@
 
 <originInfo><dateCreated encoding="edtf">1978</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject><topic>Staff</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003582"><topic>Employees</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh00005740"><topic>Facilities</topic></subject>
 
@@ -19280,7 +19280,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject><topic>Staff quarters</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh99005337"><topic>Construction</topic></subject>
 
@@ -19326,7 +19326,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85148022"><topic>Woodwork</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -19343,7 +19343,7 @@
 <subject authority="local"><name><namePart>Barker, Virginia</namePart></name></subject>
 
 
-<subject authority="local"><name><namePart>Taylor, John C</namePart></name></subject>
+
 
 
 
@@ -19410,7 +19410,7 @@
 <abstract>Richard Ogle pictured with several handmade brooms.</abstract>
 <originInfo><dateCreated encoding="edtf">1925</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85058715"><topic>Handicraft</topic></subject>
 
@@ -19502,7 +19502,7 @@
 
 <subject><topic>Social events</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -19546,7 +19546,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85106831"><topic>Prints</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -19588,7 +19588,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85132964"><topic>Teachers</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -19678,7 +19678,7 @@
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85148022"><topic>Woodwork</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 
@@ -19692,7 +19692,7 @@
 
 
 <subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n80040520"><geographic>Gatlinburg (Tenn.)</geographic></subject>
-<subject authority="local"><name><namePart>Blain, Sandy</namePart></name></subject>
+
 
 
 
@@ -19762,7 +19762,7 @@
 <abstract>Mac McCarter and family on the porch of their home.</abstract>
 <originInfo><dateCreated encoding="edtf">1925</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 <subject authority="local"><name><namePart>Arrowcraft</namePart></name></subject>
@@ -19852,7 +19852,7 @@
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85012125"><topic>Baskets</topic></subject>
 
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 <subject authority="local"><name><namePart>Arrowcraft</namePart></name></subject>
@@ -19894,7 +19894,7 @@
 <abstract>Mollie Moore, second from left, holding basket.</abstract>
 <originInfo><dateCreated encoding="edtf">1930</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85008324"><topic>Arts</topic></subject>
 
@@ -19982,7 +19982,7 @@
 <abstract>Arrowmont community weaving class of 1929.</abstract>
 <originInfo><dateCreated encoding="edtf">1929</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 <subject><topic>Women's roles</topic></subject>
 
@@ -20035,7 +20035,7 @@
 <subject authority="local"><temporal>Arrowmont School of Arts and Crafts in the Modern Era, Gatlinburg, Tennessee, 1980-2004</temporal></subject>
 
 
-<subject authority="local"><name><namePart>Cochran, Jane Burch</namePart></name></subject>
+
 
 
 
@@ -20158,7 +20158,7 @@
 <abstract>From left to right: Aunt Sallie, Mary, and Mitchel Compton. The elderly woman on the right is Mother Mary, last name unknown.</abstract>
 <originInfo><dateCreated encoding="edtf">1916</dateCreated></originInfo>
 <physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form></physicalDescription>
-<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85100163"><topic>Persons</topic></subject>
+<subject authority="lcsh" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607"><topic>People</topic></subject>
 
 
 <subject authority="local"><name><namePart>Arrowcraft</namePart></name></subject>

@@ -30,8 +30,8 @@
       </name>
    </subject>
    <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85100163">
-      <topic>Persons</topic>
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607">
+      <topic>People</topic>
    </subject>
    <subject authority="local">
       <name>
@@ -44,11 +44,6 @@
    <subject authority="naf"
             valueURI="http://id.loc.gov/authorities/names/n80040520">
       <geographic>Gatlinburg (Tenn.)</geographic>
-   </subject>
-   <subject authority="local">
-      <name>
-         <namePart>Sheremeta, R</namePart>
-      </name>
    </subject>
    <language>
       <languageTerm type="text" authority="iso639-2b">English</languageTerm>

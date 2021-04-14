@@ -22,8 +22,8 @@
       </name>
    </subject>
    <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85100163">
-      <topic>Persons</topic>
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607">
+      <topic>People</topic>
    </subject>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85145868">
@@ -57,7 +57,7 @@
    </subject>
    <subject authority="local">
       <name>
-         <namePart>Shults, Rodney.</namePart>
+         <namePart>Shults, Rodney</namePart>
       </name>
    </subject>
    <language>

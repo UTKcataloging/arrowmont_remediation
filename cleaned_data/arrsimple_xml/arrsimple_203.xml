@@ -41,11 +41,6 @@
          <namePart>Lockhart, Bob</namePart>
       </name>
    </subject>
-   <subject authority="local">
-      <name>
-         <namePart>Huff, Cynthia</namePart>
-      </name>
-   </subject>
    <language>
       <languageTerm type="text" authority="iso639-2b">English</languageTerm>
    </language>

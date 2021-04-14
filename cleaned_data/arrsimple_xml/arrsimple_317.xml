@@ -35,11 +35,6 @@
             valueURI="http://id.loc.gov/authorities/names/n80040520">
       <geographic>Gatlinburg (Tenn.)</geographic>
    </subject>
-   <subject authority="local">
-      <name>
-         <namePart>McPeck, Zach</namePart>
-      </name>
-   </subject>
    <language>
       <languageTerm type="text" authority="iso639-2b">English</languageTerm>
    </language>

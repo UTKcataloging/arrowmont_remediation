@@ -24,8 +24,8 @@
       <topic>Screen process printing</topic>
    </subject>
    <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85100163">
-      <topic>Persons</topic>
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607">
+      <topic>People</topic>
    </subject>
    <subject authority="local">
       <name>
@@ -47,11 +47,6 @@
    <subject authority="local">
       <name>
          <namePart>Loar, Steve</namePart>
-      </name>
-   </subject>
-   <subject authority="local">
-      <name>
-         <namePart>Taylor, John C</namePart>
       </name>
    </subject>
    <language>
