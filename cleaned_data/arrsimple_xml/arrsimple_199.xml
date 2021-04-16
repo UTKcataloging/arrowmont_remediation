@@ -9,6 +9,13 @@
    <titleInfo>
       <title>Ed Lambert screen printing a Steve Loar commerative Kudzu Kimono during "Doin' it with Dye and Pigment" June 23-July 4 1997</title>
    </titleInfo>
+   <name authority="marcrelator"
+         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+      <namePart>Taylor, John C.</namePart>
+      <role>
+         <roleTerm>"Photographer"</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated encoding="edtf">1997-06-01</dateCreated>
    </originInfo>
@@ -59,7 +66,7 @@
       </titleInfo>
    </relatedItem>
    <location>
-      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation>
    </location>
    <recordInfo>
       <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>

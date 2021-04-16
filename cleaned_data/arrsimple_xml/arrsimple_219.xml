@@ -10,6 +10,13 @@
       <title>Arrowmont photography instructor, Jack Ramsdale, takes class pictures for Arrowmont weaving students (June 22-26, 1992)</title>
    </titleInfo>
    <abstract>Instructor taking photo of cameras, outside.</abstract>
+   <name authority="marcrelator"
+         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+      <namePart>Brugman, Gordon</namePart>
+      <role>
+         <roleTerm>"Photographer"</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated encoding="edtf">1992-06-22</dateCreated>
    </originInfo>
@@ -55,7 +62,7 @@
       </titleInfo>
    </relatedItem>
    <location>
-      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation>
    </location>
    <recordInfo>
       <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>

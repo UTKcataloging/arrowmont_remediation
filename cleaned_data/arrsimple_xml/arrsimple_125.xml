@@ -10,6 +10,13 @@
       <title>Teachers' Cottage - 1919</title>
    </titleInfo>
    <abstract>Bungalow and cottage built by Mrs. Helmick to show the people what it is possible to do with $600. This description refers to the Teachers' Cottage (cottage) and the Pollard Cottage (bungalow), right and center respectively.</abstract>
+   <name authority="marcrelator"
+         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm>"Photographer"</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated encoding="edtf">1919</dateCreated>
    </originInfo>
@@ -41,7 +48,7 @@
       </titleInfo>
    </relatedItem>
    <location>
-      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation>
    </location>
    <recordInfo>
       <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>

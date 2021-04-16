@@ -9,6 +9,13 @@
    <titleInfo>
       <title>Weaving sample</title>
    </titleInfo>
+   <name authority="marcrelator"
+         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm>"Photographer"</roleTerm>
+      </role>
+   </name>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
    </physicalDescription>
@@ -34,7 +41,7 @@
       </titleInfo>
    </relatedItem>
    <location>
-      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation>
    </location>
    <recordInfo>
       <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>

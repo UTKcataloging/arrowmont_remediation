@@ -10,6 +10,13 @@
       <title>The newly remodeled One-Room Schoolhouse on Baskins Creek</title>
    </titleInfo>
    <abstract>The One-Room Schoolhouse on Baskins Creek received a porch, a new roof, and an extension on the back of the building in preparation for its transformation into the new Arrowcraft Shop.</abstract>
+   <name authority="marcrelator"
+         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm>"Photographer"</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated encoding="edtf">1935</dateCreated>
    </originInfo>
@@ -51,7 +58,7 @@
       </titleInfo>
    </relatedItem>
    <location>
-      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation>
    </location>
    <recordInfo>
       <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>

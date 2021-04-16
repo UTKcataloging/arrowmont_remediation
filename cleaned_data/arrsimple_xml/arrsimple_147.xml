@@ -10,6 +10,13 @@
       <title>Basket Makers - Pi Beta Phi Settlement School - Gatlinburg, Tenn</title>
    </titleInfo>
    <abstract>From left to right: Flora Killian Compton, Herb Compton, Betty Jo Compton, and Samuel H. Compton. The Comptons were basket makers at the Pi Phi Settlement School.</abstract>
+   <name authority="marcrelator"
+         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+      <namePart>Huff, Jack</namePart>
+      <role>
+         <roleTerm>"Photographer"</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated encoding="edtf">1945</dateCreated>
    </originInfo>
@@ -64,7 +71,7 @@
       </titleInfo>
    </relatedItem>
    <location>
-      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation>
    </location>
    <recordInfo>
       <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>

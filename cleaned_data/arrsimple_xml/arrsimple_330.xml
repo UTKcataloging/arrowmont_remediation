@@ -10,6 +10,13 @@
       <title>At Boys Dormitory - with teachers and staff, May, 1924</title>
    </titleInfo>
    <abstract>From left to right: Frances Curtis, Dorothy Geare, Phyllis Higginbotham, Nita Hill Stark, and Margaret Ball in foreground.  May 1924</abstract>
+   <name authority="marcrelator"
+         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm>"Photographer"</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated encoding="edtf">1924-05</dateCreated>
    </originInfo>
@@ -70,7 +77,7 @@
       </titleInfo>
    </relatedItem>
    <location>
-      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation>
    </location>
    <recordInfo>
       <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>

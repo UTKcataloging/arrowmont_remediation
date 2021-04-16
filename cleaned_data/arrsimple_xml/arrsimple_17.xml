@@ -10,6 +10,13 @@
       <title>Receiving finished products</title>
    </titleInfo>
    <abstract>Boys bring in their family's weaving.  Left to right: Alvin Shults, Tim Wilson, Rodney Shults.  Cathy Graves receipts in items, Nella Hill stands by to give out new yarn.  Alvin does glasses cases, Rodney - weftwind mats.  Tim does coasters - his mother (a daughter-in-law of Mrs. Wilson) also weaves.  Eula Wilson does mats.  Not pictured.</abstract>
+   <name authority="marcrelator"
+         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm>"Photographer"</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated encoding="edtf">1977-12</dateCreated>
    </originInfo>
@@ -70,7 +77,7 @@
       </titleInfo>
    </relatedItem>
    <location>
-      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation>
    </location>
    <recordInfo>
       <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>

@@ -19,6 +19,7 @@
 <identifier type="local">{{cells["identifier"].value}}</identifier>
 {{if(isBlank(cells['title'].value), '', '<titleInfo><title>' + cells["title"].value + '</title></titleInfo>')}} 
 {{if(isBlank(cells['abstract'].value), '', '<abstract>' + cells["abstract"].value + '</abstract>')}}
+<name authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht"><namePart>{{cells["namePart"].value}}</namePart><role><roleTerm>"Photographer"</roleTerm></role></name>
 {{if(isBlank(cells['dateCreated'].value), '', '<originInfo><dateCreated encoding="edtf">' + cells['dateCreated'].value + '</dateCreated></originInfo>')}}
 <physicalDescription><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form></physicalDescription>
 {{if(isBlank(cells['subject_0_topic'].value), '', '<subject' + if(isBlank(cells['subject_0_topic_URI'].value), '', ' authority="lcsh" valueURI="' + cells['subject_0_topic_URI'].value + '"') + '><topic>' + cells['subject_0_topic'].value + '</topic></subject>')}}
@@ -55,7 +56,7 @@
 </language>
 <typeOfResource>still image</typeOfResource>
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>{{cells['digital_collection'].value}}</title></titleInfo></relatedItem>
-<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation></location>
 <recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="{{cells['accessCondition_URI'].value}}">{{cells['accessCondition'].value}}</accessCondition>
 </mods>

@@ -10,6 +10,13 @@
       <title>The Arrowcraft Shop's stockroom</title>
    </titleInfo>
    <abstract>After the woven articles have been checked in by Mrs. Hill, the next step is the pricing and tagging of each item in the Arrowcraft Shop workroom.  On the left, Mrs. Jane Noland is sewing price tags on napkins, while Mrs. Jean Hembree (Ellison) is marking price tags.  Photo by Melton.</abstract>
+   <name authority="marcrelator"
+         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+      <namePart>Melton</namePart>
+      <role>
+         <roleTerm>"Photographer"</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated encoding="edtf">1950</dateCreated>
    </originInfo>
@@ -61,7 +68,7 @@
       </titleInfo>
    </relatedItem>
    <location>
-      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation>
    </location>
    <recordInfo>
       <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>

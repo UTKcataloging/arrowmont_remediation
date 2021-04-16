@@ -10,6 +10,13 @@
       <title>Students in front of One-Room Schoolhouse, Gatlinburg</title>
    </titleInfo>
    <abstract>Group of students, standing on a foot-bridge, at the One-Room Schoolhouse on Baskins Creek, Gatlinburg. Jack and Jim Huff, third and fourth from left; Emma Maples, eighth from right; Stella Huff Cox, third from right.</abstract>
+   <name authority="marcrelator"
+         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+      <namePart>Unknown</namePart>
+      <role>
+         <roleTerm>"Photographer"</roleTerm>
+      </role>
+   </name>
    <originInfo>
       <dateCreated encoding="edtf">1915</dateCreated>
    </originInfo>
@@ -69,7 +76,7 @@
       </titleInfo>
    </relatedItem>
    <location>
-      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2001080757">Arrowmont School of Arts and Crafts</physicalLocation>
    </location>
    <recordInfo>
       <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
