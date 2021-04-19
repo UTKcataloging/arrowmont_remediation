@@ -19,18 +19,18 @@
 <identifier type="local">{{cells["identifier"].value}}</identifier>
 {{if(isBlank(cells['title'].value), '', '<titleInfo><title>' + cells["title"].value + '</title></titleInfo>')}} 
 {{if(isBlank(cells['abstract'].value), '', '<abstract>' + cells["abstract"].value + '</abstract>')}}
-<name authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht"><namePart>{{cells["namePart"].value}}</namePart><role><roleTerm>"Photographer"</roleTerm></role></name>
+<name><namePart>{{cells["namePart"].value}}</namePart><role><roleTerm authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm></role></name>
 {{if(isBlank(cells['dateCreated'].value), '', '<originInfo><dateCreated encoding="edtf">' + cells['dateCreated'].value + '</dateCreated></originInfo>')}}
 <physicalDescription><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form></physicalDescription>
-{{if(isBlank(cells['subject_0_topic'].value), '', '<subject' + if(isBlank(cells['subject_0_topic_URI'].value), '', ' authority="lcsh" valueURI="' + cells['subject_0_topic_URI'].value + '"') + '><topic>' + cells['subject_0_topic'].value + '</topic></subject>')}}
+{{if(isBlank(cells['subject_0_topic'].value), '', '<subject' + if(isBlank(cells['subject_0_topic_URI'].value), '', ' valueURI="' + cells['subject_0_topic_URI'].value + '"') + '><topic>' + cells['subject_0_topic'].value + '</topic></subject>')}}
 {{if(isBlank(cells['subject_0_name'].value), '', '<subject authority="local"><name><namePart>' + cells['subject_0_name'].value + '</namePart></name></subject>')}}
-{{if(isBlank(cells['subject_1_topic'].value), '', '<subject' + if(isBlank(cells['subject_1_topic_URI'].value), '', ' authority="lcsh" valueURI="' + cells['subject_1_topic_URI'].value + '"') + '><topic>' + cells['subject_1_topic'].value + '</topic></subject>')}}
+{{if(isBlank(cells['subject_1_topic'].value), '', '<subject' + if(isBlank(cells['subject_1_topic_URI'].value), '', ' valueURI="' + cells['subject_1_topic_URI'].value + '"') + '><topic>' + cells['subject_1_topic'].value + '</topic></subject>')}}
 {{if(isBlank(cells['subject_1_name'].value), '', '<subject authority="local"><name><namePart>' + cells['subject_1_name'].value + '</namePart></name></subject>')}}
-{{if(isBlank(cells['subject_2_topic'].value), '', '<subject' + if(isBlank(cells['subject_2_topic_URI'].value), '', ' authority="lcsh" valueURI="' + cells['subject_2_topic_URI'].value + '"') + '><topic>' + cells['subject_2_topic'].value + '</topic></subject>')}}
+{{if(isBlank(cells['subject_2_topic'].value), '', '<subject' + if(isBlank(cells['subject_2_topic_URI'].value), '', ' valueURI="' + cells['subject_2_topic_URI'].value + '"') + '><topic>' + cells['subject_2_topic'].value + '</topic></subject>')}}
 {{if(isBlank(cells['subject_2_name'].value), '', '<subject authority="local"><name><namePart>' + cells['subject_2_name'].value + '</namePart></name></subject>')}}
 {{if(isBlank(cells['subject_2_temporal'].value), '', '<subject authority="local"><temporal>' + cells['subject_2_temporal'].value + '</temporal></subject>')}}
 {{if(isBlank(cells['subject_2_geographic'].value), '', '<subject' + if(isBlank(cells['subject_2_geographic_URI'].value), '', ' authority="naf" valueURI="' + cells['subject_2_geographic_URI'].value + '"') + '><geographic>' + cells['subject_2_geographic'].value + '</geographic></subject>')}}
-{{if(isBlank(cells['subject_3_topic'].value), '', '<subject' + if(isBlank(cells['subject_3_topic_URI'].value), '', ' authority="lcsh" valueURI="' + cells['subject_3_topic_URI'].value + '"') + '><topic>' + cells['subject_3_topic'].value + '</topic></subject>')}}
+{{if(isBlank(cells['subject_3_topic'].value), '', '<subject' + if(isBlank(cells['subject_3_topic_URI'].value), '', ' valueURI="' + cells['subject_3_topic_URI'].value + '"') + '><topic>' + cells['subject_3_topic'].value + '</topic></subject>')}}
 {{if(isBlank(cells['subject_3_name'].value), '', '<subject authority="local"><name><namePart>' + cells['subject_3_name'].value + '</namePart></name></subject>')}}
 {{if(isBlank(cells['subject_3_temporal'].value), '', '<subject authority="local"><temporal>' + cells['subject_3_temporal'].value + '</temporal></subject>')}}
 {{if(isBlank(cells['subject_3_geographic'].value), '', '<subject' + if(isBlank(cells['subject_3_geographic_URI'].value), '', ' authority="naf" valueURI="' + cells['subject_3_geographic_URI'].value + '"') + '><geographic>' + cells['subject_3_geographic'].value + '</geographic></subject>')}}
