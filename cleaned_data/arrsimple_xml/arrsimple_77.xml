@@ -10,11 +10,11 @@
       <title>Students - 1921</title>
    </titleInfo>
    <abstract>Group of 5 boys, 1 girl in the background</abstract>
-   <name authority="marcrelator"
-         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+   <name>
       <namePart>Unknown</namePart>
       <role>
-         <roleTerm>"Photographer"</roleTerm>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>
@@ -23,16 +23,13 @@
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
    </physicalDescription>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85129296">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85129296">
       <topic>Students</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85016211">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85016211">
       <topic>Boys</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85055012">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85055012">
       <topic>Girls</topic>
    </subject>
    <subject authority="local">

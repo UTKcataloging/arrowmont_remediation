@@ -10,11 +10,11 @@
       <title>The Alum Cave Cliffs</title>
    </titleInfo>
    <abstract>The Alum Cave, on the way to the peak of Mt. Le Conte.</abstract>
-   <name authority="marcrelator"
-         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+   <name>
       <namePart>Unknown</namePart>
       <role>
-         <roleTerm>"Photographer"</roleTerm>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>
@@ -23,20 +23,16 @@
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
    </physicalDescription>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85074392">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85074392">
       <topic>Landscape</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607">
+   <subject valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607">
       <topic>People</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85136255">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85136255">
       <topic>Tourism</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh87003234">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh87003234">
       <topic>Cliffs</topic>
    </subject>
    <subject authority="local">

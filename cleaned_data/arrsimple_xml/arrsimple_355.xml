@@ -10,11 +10,11 @@
       <title>Teachers' Cottage, Sugarlands</title>
    </titleInfo>
    <abstract>The Hazel Todd Meaden Cottage's interior.</abstract>
-   <name authority="marcrelator"
-         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+   <name>
       <namePart>Unknown</namePart>
       <role>
-         <roleTerm>"Photographer"</roleTerm>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>
@@ -26,8 +26,7 @@
    <subject>
       <topic>Extension work</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85132964">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85132964">
       <topic>Teachers</topic>
    </subject>
    <subject>

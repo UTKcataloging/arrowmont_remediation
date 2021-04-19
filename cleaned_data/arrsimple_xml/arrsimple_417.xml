@@ -10,11 +10,11 @@
       <title>A mountain cabin</title>
    </titleInfo>
    <abstract>A mountain home, showing the construction of the buidling.</abstract>
-   <name authority="marcrelator"
-         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+   <name>
       <namePart>Unknown</namePart>
       <role>
-         <roleTerm>"Photographer"</roleTerm>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>
@@ -23,16 +23,13 @@
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
    </physicalDescription>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85078077">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85078077">
       <topic>Log cabins</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85087823">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85087823">
       <topic>Mountains</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85074392">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85074392">
       <topic>Landscapes</topic>
    </subject>
    <subject authority="local">

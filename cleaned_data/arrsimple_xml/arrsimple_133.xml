@@ -10,11 +10,11 @@
       <title>Block printing - 1st Summer Craft Workshop - 1945</title>
    </titleInfo>
    <abstract>Summer crafts students preparing block prints in 1945.</abstract>
-   <name authority="marcrelator"
-         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+   <name>
       <namePart>Unknown</namePart>
       <role>
-         <roleTerm>"Photographer"</roleTerm>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>
@@ -28,12 +28,10 @@
          <namePart>Summer crafts workshop</namePart>
       </name>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85106831">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85106831">
       <topic>Prints</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85008324">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008324">
       <topic>Arts</topic>
    </subject>
    <subject authority="local">

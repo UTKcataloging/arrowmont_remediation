@@ -10,11 +10,11 @@
       <title>Block printing - 1945</title>
    </titleInfo>
    <abstract>1st Summer Workshop in Crafts and Community Recreation - 1945; Jean Hemphiel</abstract>
-   <name authority="marcrelator"
-         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+   <name>
       <namePart>Unknown</namePart>
       <role>
-         <roleTerm>"Photographer"</roleTerm>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>

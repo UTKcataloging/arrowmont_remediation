@@ -10,11 +10,11 @@
       <title>The Settlement School and its environs</title>
    </titleInfo>
    <abstract>The abandoned Methodist church sits in the foreground, this was used as an alternate school building in the early years of the Settlement School. Behind and to the right is Squire Maples' home; directly behind Squire Maples, the Six-Room Schoolhouse.</abstract>
-   <name authority="marcrelator"
-         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+   <name>
       <namePart>Unknown</namePart>
       <role>
-         <roleTerm>"Photographer"</roleTerm>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>
@@ -23,16 +23,13 @@
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
    </physicalDescription>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh00005740">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh00005740">
       <topic>Facilities</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85074392">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85074392">
       <topic>Landscapes</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85118278">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85118278">
       <topic>School buildings</topic>
    </subject>
    <subject authority="local">

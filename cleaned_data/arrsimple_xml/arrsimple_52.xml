@@ -10,11 +10,11 @@
       <title>Southern Highlands Craftsmans Fair - 1950 - By Ralph Higinton</title>
    </titleInfo>
    <abstract>Group of young men and women dancing for an audience. Photographed by Ralph Higinton of Berea, KY.</abstract>
-   <name authority="marcrelator"
-         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+   <name>
       <namePart>Unknown</namePart>
       <role>
-         <roleTerm>"Photographer"</roleTerm>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>
@@ -23,15 +23,13 @@
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
    </physicalDescription>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85046910">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85046910">
       <topic>Fairs</topic>
    </subject>
    <subject>
       <topic>Social events</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh2001008851">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh2001008851">
       <topic>Social life and customs</topic>
    </subject>
    <subject authority="local">

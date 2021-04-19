@@ -10,11 +10,11 @@
       <title>Arrowcraft</title>
    </titleInfo>
    <abstract>An assortment of Arrowcraft items on display.</abstract>
-   <name authority="marcrelator"
-         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+   <name>
       <namePart>Unknown</namePart>
       <role>
-         <roleTerm>"Photographer"</roleTerm>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>
@@ -31,12 +31,10 @@
    <subject>
       <topic>Baskets</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85022351">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85022351">
       <topic>Chairs</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85017214">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85017214">
       <topic>Brooms and brushes</topic>
    </subject>
    <subject authority="local">

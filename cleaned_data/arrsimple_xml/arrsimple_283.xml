@@ -9,11 +9,11 @@
    <titleInfo>
       <title>A selection of brooms</title>
    </titleInfo>
-   <name authority="marcrelator"
-         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+   <name>
       <namePart>Unknown</namePart>
       <role>
-         <roleTerm>"Photographer"</roleTerm>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>
@@ -22,20 +22,16 @@
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
    </physicalDescription>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85008324">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008324">
       <topic>Arts</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85148022">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85148022">
       <topic>Woodwork</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85058715">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85058715">
       <topic>Handicraft</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85017214">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85017214">
       <topic>Brooms and brushes</topic>
    </subject>
    <subject authority="local">

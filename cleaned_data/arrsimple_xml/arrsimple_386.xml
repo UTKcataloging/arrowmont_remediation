@@ -10,11 +10,11 @@
       <title>Rare snow storm</title>
    </titleInfo>
    <abstract>The Teachers' Cottage, with the Pollard and Stuart Cottages and the Red Barn visible in the background, during a snow storm.</abstract>
-   <name authority="marcrelator"
-         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+   <name>
       <namePart>Unknown</namePart>
       <role>
-         <roleTerm>"Photographer"</roleTerm>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>
@@ -23,20 +23,16 @@
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
    </physicalDescription>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85123771">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85123771">
       <topic>Snow</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85074392">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85074392">
       <topic>Landscapes</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85118278">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85118278">
       <topic>School buildings</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85145843">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85145843">
       <topic>Weather</topic>
    </subject>
    <subject authority="local">

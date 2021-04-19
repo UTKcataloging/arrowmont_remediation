@@ -10,11 +10,11 @@
       <title>Josie, Arlie, and Neal Watson - 1956</title>
    </titleInfo>
    <abstract>The Watsons were photographed in front of the Old Ogle Cabin. Built by Martha Jane Husky Ogle, the first white settler in Gatlinburg.</abstract>
-   <name authority="marcrelator"
-         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+   <name>
       <namePart>Unknown</namePart>
       <role>
-         <roleTerm>"Photographer"</roleTerm>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>
@@ -23,12 +23,10 @@
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
    </physicalDescription>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607">
+   <subject valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607">
       <topic>People</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003582">
+   <subject valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003582">
       <topic>Employees</topic>
    </subject>
    <subject authority="local">

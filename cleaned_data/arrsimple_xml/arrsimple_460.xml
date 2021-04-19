@@ -10,11 +10,11 @@
       <title>Back of Pi-Beta-Phi Weavers postcard</title>
    </titleInfo>
    <abstract>The inscription reads: Dear Polly, The director says that not only the workers but all the residents of the town know the name Mary Pollard. The displays are reminiscent of top floor West. And this is a real tribute to my favorite instructor. We are stopping in the Smokies enroute to a Florida vacation. Love, Arlene Reasoner Sayre - To Miss Mary Pollard.</abstract>
-   <name authority="marcrelator"
-         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+   <name>
       <namePart>Unknown</namePart>
       <role>
-         <roleTerm>"Photographer"</roleTerm>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>
@@ -23,16 +23,13 @@
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
    </physicalDescription>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607">
+   <subject valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607">
       <topic>People</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85132964">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85132964">
       <topic>Teachers</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003582">
+   <subject valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003582">
       <topic>Employees</topic>
    </subject>
    <subject authority="local">

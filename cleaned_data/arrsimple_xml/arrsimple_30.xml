@@ -9,11 +9,11 @@
    <titleInfo>
       <title>Home of Charley Ogle</title>
    </titleInfo>
-   <name authority="marcrelator"
-         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+   <name>
       <namePart>Unknown</namePart>
       <role>
-         <roleTerm>"Photographer"</roleTerm>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>
@@ -25,8 +25,7 @@
    <subject>
       <topic>Homes</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85047009">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85047009">
       <topic>Families</topic>
    </subject>
    <subject authority="local">

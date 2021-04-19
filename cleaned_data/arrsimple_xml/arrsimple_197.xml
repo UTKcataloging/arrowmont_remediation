@@ -10,11 +10,11 @@
       <title>Zoe, Summer 1987</title>
    </titleInfo>
    <abstract>Female blow drying artwork, 1987.</abstract>
-   <name authority="marcrelator"
-         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+   <name>
       <namePart>Unknown</namePart>
       <role>
-         <roleTerm>"Photographer"</roleTerm>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>
@@ -23,12 +23,10 @@
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
    </physicalDescription>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85008324">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85008324">
       <topic>Arts</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607">
+   <subject valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607">
       <topic>People</topic>
    </subject>
    <subject authority="local">

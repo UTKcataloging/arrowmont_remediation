@@ -10,11 +10,11 @@
       <title>Constructing a brooder house</title>
    </titleInfo>
    <abstract>Pi Beta Phi Settlement School class assisting in the construction of a poultry house, or brooder house, at one of the boy's home.</abstract>
-   <name authority="marcrelator"
-         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+   <name>
       <namePart>Unknown</namePart>
       <role>
-         <roleTerm>"Photographer"</roleTerm>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>
@@ -23,16 +23,13 @@
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
    </physicalDescription>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85016211">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85016211">
       <topic>Boys</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85077784">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85077784">
       <topic>Livestock</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85118295">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85118295">
       <topic>School children</topic>
    </subject>
    <subject authority="local">

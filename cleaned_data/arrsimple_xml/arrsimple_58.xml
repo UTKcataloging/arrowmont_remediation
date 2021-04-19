@@ -10,11 +10,11 @@
       <title>Tabitha Rossilter demonstrating spinning</title>
    </titleInfo>
    <abstract>Tabitha Rossilter demonstrating spinning when she had students from Arrowmont demonstrate Arrowcraft in the Great Smoky Mountains National Park.</abstract>
-   <name authority="marcrelator"
-         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+   <name>
       <namePart>Unknown</namePart>
       <role>
-         <roleTerm>"Photographer"</roleTerm>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>
@@ -28,12 +28,10 @@
          <namePart>Arrowcraft</namePart>
       </name>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607">
+   <subject valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607">
       <topic>People</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85126713">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85126713">
       <topic>Spinning</topic>
    </subject>
    <subject authority="local">

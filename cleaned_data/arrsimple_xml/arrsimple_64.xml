@@ -9,11 +9,11 @@
    <titleInfo>
       <title>Young woman at a spinning wheel</title>
    </titleInfo>
-   <name authority="marcrelator"
-         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+   <name>
       <namePart>Unknown</namePart>
       <role>
-         <roleTerm>"Photographer"</roleTerm>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>
@@ -27,12 +27,10 @@
          <namePart>Arrowcraft</namePart>
       </name>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85055012">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85055012">
       <topic>Girls</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85126713">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85126713">
       <topic>Spinning</topic>
    </subject>
    <subject authority="local">

@@ -10,11 +10,11 @@
       <title>Unusual snow storm</title>
    </titleInfo>
    <abstract>Heavy snows in the Great Smoky Mountains.</abstract>
-   <name authority="marcrelator"
-         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+   <name>
       <namePart>Unknown</namePart>
       <role>
-         <roleTerm>"Photographer"</roleTerm>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>
@@ -23,12 +23,10 @@
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
    </physicalDescription>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85123771">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85123771">
       <topic>Snow</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85145843">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85145843">
       <topic>Weather</topic>
    </subject>
    <subject authority="local">
@@ -36,8 +34,7 @@
          <namePart>Squire Maples' Home</namePart>
       </name>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85084393">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85084393">
       <topic>Methodist Church</topic>
    </subject>
    <subject authority="local">

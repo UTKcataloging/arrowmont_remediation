@@ -10,11 +10,11 @@
       <title>Old Grand Council Sarah</title>
    </titleInfo>
    <abstract>Four women, the Pi Phi Grand Council, pose for a picture. Amy B. Onken, far left.</abstract>
-   <name authority="marcrelator"
-         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+   <name>
       <namePart>Unknown</namePart>
       <role>
-         <roleTerm>"Photographer"</roleTerm>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>

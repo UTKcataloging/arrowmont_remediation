@@ -10,11 +10,11 @@
       <title>Near Carter Town</title>
    </titleInfo>
    <abstract>House with bee gums, fashioned from the trunks of black gum trees, on the left.</abstract>
-   <name authority="marcrelator"
-         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+   <name>
       <namePart>Unknown</namePart>
       <role>
-         <roleTerm>"Photographer"</roleTerm>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>
@@ -26,12 +26,10 @@
    <subject>
       <topic>Homes</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85047200">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85047200">
       <topic>Farm buildings</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85074392">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85074392">
       <topic>Landscapes</topic>
    </subject>
    <subject authority="local">

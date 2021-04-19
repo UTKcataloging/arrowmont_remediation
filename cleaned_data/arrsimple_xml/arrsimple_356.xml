@@ -10,11 +10,11 @@
       <title>Sugarlands - 1929 - School and Teachers' Cottage</title>
    </titleInfo>
    <abstract>The Sugarlands Extension program; the Hazel Todd Meaden Cottage is on the right.</abstract>
-   <name authority="marcrelator"
-         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+   <name>
       <namePart>Unknown</namePart>
       <role>
-         <roleTerm>"Photographer"</roleTerm>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>
@@ -26,15 +26,13 @@
    <subject>
       <topic>Extension work</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85132964">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85132964">
       <topic>Teachers</topic>
    </subject>
    <subject>
       <topic>Staff quarters</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85074392">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85074392">
       <topic>Landscapes</topic>
    </subject>
    <subject authority="local">

@@ -10,11 +10,11 @@
       <title>Teachers' Cottage, Sugarlands Hand made shingles hand turned boards for floors</title>
    </titleInfo>
    <abstract>Prior to the construction of the Hazel Todd Meaden Cottage, the Pi Phi teachers lived in this cottage.</abstract>
-   <name authority="marcrelator"
-         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+   <name>
       <namePart>Unknown</namePart>
       <role>
-         <roleTerm>"Photographer"</roleTerm>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>
@@ -29,12 +29,10 @@
    <subject>
       <topic>Extension work</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85132964">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85132964">
       <topic>Teachers</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85033295">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85033295">
       <topic>Cottages</topic>
    </subject>
    <subject authority="local">

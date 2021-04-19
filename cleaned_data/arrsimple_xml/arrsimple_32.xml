@@ -10,11 +10,11 @@
       <title>Ruth Sturley and two friends, photographed by Emily Burton</title>
    </titleInfo>
    <abstract>Ruth Sturley and two of the younger McCarter girls, eating lunch on a day-trip to The Glades. See Ruth Sturley's Aug. 26, 1919 letter for more.</abstract>
-   <name authority="marcrelator"
-         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+   <name>
       <namePart>Burton, Emily</namePart>
       <role>
-         <roleTerm>"Photographer"</roleTerm>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>
@@ -23,20 +23,16 @@
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
    </physicalDescription>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85132964">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85132964">
       <topic>Teachers</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85118295">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85118295">
       <topic>School children</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85047009">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85047009">
       <topic>Families</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85050184">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85050184">
       <topic>Food</topic>
    </subject>
    <subject authority="local">

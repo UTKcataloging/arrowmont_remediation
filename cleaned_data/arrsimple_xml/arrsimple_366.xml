@@ -10,11 +10,11 @@
       <title>Two Students</title>
    </titleInfo>
    <abstract>Two boys on the steps of the Six-Room Schoolhouse, Gatlinburg.</abstract>
-   <name authority="marcrelator"
-         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+   <name>
       <namePart>Unknown</namePart>
       <role>
-         <roleTerm>"Photographer"</roleTerm>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>
@@ -23,12 +23,10 @@
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
    </physicalDescription>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85129296">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85129296">
       <topic>Students</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85016211">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85016211">
       <topic>Boys</topic>
    </subject>
    <subject authority="local">

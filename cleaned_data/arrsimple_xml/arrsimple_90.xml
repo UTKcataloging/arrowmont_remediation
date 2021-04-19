@@ -10,11 +10,11 @@
       <title>The Arrowcraft Shop's shipping room</title>
    </titleInfo>
    <abstract>Bringing order out of chaos are Arrowcraft Shop's two seasoned staff members.  Faye Cooke, on the right, has the responsibility for packing and shipping all club orders, assisted here by her sister, Nella Cooke Hill, who moves flexiby from the weaving room to lend her spare time services to the demanding pressures of shipping.  Cramped quarters add hazards to the exacting task of filling hundreds of club orders, involving thousands of items.  Photo by Melton.</abstract>
-   <name authority="marcrelator"
-         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+   <name>
       <namePart>Melton</namePart>
       <role>
-         <roleTerm>"Photographer"</roleTerm>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>
@@ -28,12 +28,10 @@
          <namePart>Arrowcraft</namePart>
       </name>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/authorities/subjects/sh85148187">
+   <subject valueURI="http://id.loc.gov/authorities/subjects/sh85148187">
       <topic>Workshops</topic>
    </subject>
-   <subject authority="lcsh"
-            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607">
+   <subject valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007607">
       <topic>People</topic>
    </subject>
    <subject authority="local">

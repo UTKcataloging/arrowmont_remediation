@@ -10,11 +10,11 @@
       <title>A mountian home - 1925</title>
    </titleInfo>
    <abstract>A mountain home, photographed in 1925, where baskets were made for the Pi Beta Phi Fraternity's Arrowcraft Shop.</abstract>
-   <name authority="marcrelator"
-         valueURI="http://id.loc.gov/vocabulary/relators/pht">
+   <name>
       <namePart>Unknown</namePart>
       <role>
-         <roleTerm>"Photographer"</roleTerm>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>
