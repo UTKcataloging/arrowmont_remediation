@@ -10,11 +10,11 @@
       <title>Rainbow Falls -- 18 Halfway up Le Conte Creek Great Smoky Mountains National Park, Tenn -- NC</title>
    </titleInfo>
    <abstract>A postcard by Jim Thompson.</abstract>
-   <name>
-      <namePart>Thompson, Jim</namePart>
+   <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n78030817">
+      <namePart>Thompson, James Edward, 1880-1976</namePart>
       <role>
          <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+            valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
       </role>
    </name>
    <originInfo>
@@ -55,6 +55,5 @@
    <recordInfo>
       <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
    </recordInfo>
-   <accessCondition type="use and reproduction"
-                    xlink:href="http://rightsstatements.org/vocab/CNE/1.0/">Copyright Not Evaluated</accessCondition>
+   <accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
